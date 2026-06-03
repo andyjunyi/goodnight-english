@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>晚安精選英語教學</title>
+<style>
+  :root {
+    --bg: #0f0f1a;
+    --card: #1a1a2e;
+    --card-hover: #222240;
+    --accent: #7c5cfc;
+    --accent-light: #a78bfa;
+    --green: #34d399;
+    --orange: #fb923c;
+    --pink: #f472b6;
+    --text: #e2e8f0;
+    --text-dim: #94a3b8;
+    --text-muted: #64748b;
+    --border: #2a2a45;
+    --radius: 16px;
+    --shadow: 0 4px 24px rgba(0,0,0,.3);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, 'Segoe UI', 'Noto Sans TC', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* Header */
+  header {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 32px 20px 24px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  header::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle at 30% 50%, rgba(124,92,252,.08) 0%, transparent 60%);
+    pointer-events: none;
+  }
+  header h1 {
+    font-size: 1.8em;
+    font-weight: 700;
+    background: linear-gradient(135deg, var(--accent-light), var(--pink));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    position: relative;
+  }
+  header p {
+    color: var(--text-dim);
+    margin-top: 6px;
+    font-size: .95em;
+    position: relative;
+  }
+  header .count {
+    display: inline-block;
+    margin-top: 10px;
+    background: rgba(124,92,252,.15);
+    color: var(--accent-light);
+    padding: 4px 14px;
+    border-radius: 20px;
+    font-size: .8em;
+    position: relative;
+  }
+
+  /* Controls */
+  .controls {
+    max-width: 800px;
+    margin: 20px auto 0;
+    padding: 0 16px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--bg);
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  .search-box {
+    flex: 1;
+    min-width: 200px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 10px 16px;
+    color: var(--text);
+    font-size: .95em;
+    outline: none;
+    transition: border .2s;
+  }
+  .search-box:focus { border-color: var(--accent); }
+  .search-box::placeholder { color: var(--text-muted); }
+
+  .filter-group {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .filter-btn {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 6px 14px;
+    color: var(--text-dim);
+    font-size: .82em;
+    cursor: pointer;
+    transition: all .2s;
+  }
+  .filter-btn:hover { background: var(--card-hover); color: var(--text); }
+  .filter-btn.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+
+  /* Grid */
+  .grid {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 16px 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  /* Card */
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 24px;
+    transition: all .3s;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+  }
+  .card:hover {
+    background: var(--card-hover);
+    border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow);
+  }
+  .card .date {
+    font-size: .78em;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .card .date .tag {
+    display: inline-block;
+    background: rgba(124,92,252,.15);
+    color: var(--accent-light);
+    padding: 1px 10px;
+    border-radius: 10px;
+    font-size: .85em;
+  }
+  .card .phrase {
+    font-size: 1.35em;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.3;
+    margin-bottom: 4px;
+  }
+  .card .phrase .highlight {
+    background: linear-gradient(135deg, var(--accent-light), var(--pink));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .card .meaning {
+    font-size: .92em;
+    color: var(--text-dim);
+    margin-bottom: 12px;
+  }
+  .card .analysis {
+    font-size: .88em;
+    color: var(--text-dim);
+    line-height: 1.7;
+    display: none;
+    margin-top: 12px;
+    padding-top: 14px;
+    border-top: 1px solid var(--border);
+  }
+  .card.expanded .analysis { display: block; }
+  .card .expand-hint {
+    font-size: .78em;
+    color: var(--text-muted);
+    margin-top: 8px;
+  }
+  .card .examples {
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: rgba(0,0,0,.25);
+    border-radius: 10px;
+    border-left: 3px solid var(--accent);
+    display: none;
+  }
+  .card.expanded .examples { display: block; }
+  .card .examples .ex {
+    font-size: .85em;
+    color: var(--text-dim);
+    line-height: 1.6;
+    padding: 4px 0;
+    font-style: italic;
+  }
+  .card .examples .ex::before { content: '💬 '; font-style: normal; }
+
+  /* No results */
+  .no-results {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-muted);
+  }
+  .no-results .emoji { font-size: 3em; margin-bottom: 12px; }
+
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 32px 20px;
+    color: var(--text-muted);
+    font-size: .8em;
+    border-top: 1px solid var(--border);
+  }
+
+  /* Animations */
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .card { animation: fadeIn .4s ease backwards; }
+  .card:nth-child(1) { animation-delay: 0s; }
+  .card:nth-child(2) { animation-delay: .05s; }
+  .card:nth-child(3) { animation-delay: .1s; }
+  .card:nth-child(4) { animation-delay: .15s; }
+  .card:nth-child(5) { animation-delay: .2s; }
+  .card:nth-child(6) { animation-delay: .25s; }
+  .card:nth-child(7) { animation-delay: .3s; }
+
+  /* Sort */
+  .sort-btn {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    font-size: .82em;
+    cursor: pointer;
+    padding: 6px 10px;
+    border-radius: 8px;
+    transition: all .2s;
+  }
+  .sort-btn:hover { background: var(--card); color: var(--text); }
+
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.4em; }
+    .card { padding: 18px; }
+    .card .phrase { font-size: 1.15em; }
+    .controls { gap: 8px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🌙 晚安精選 · 英語教學</h1>
+  <p>每天一句道地英文口語，輕鬆學最自然的表達方式</p>
+  <span class="count" id="entryCount"></span>
+</header>
+
+<div class="controls">
+  <input type="text" class="search-box" id="searchBox" placeholder="🔍 搜尋短句、關鍵字…" autocomplete="off">
+  <div class="filter-group" id="filterGroup">
+    <button class="filter-btn active" data-filter="all">全部</button>
+    <button class="filter-btn" data-filter="daily-phrase">日常短句</button>
+    <button class="filter-btn" data-filter="slang">流行語</button>
+    <button class="filter-btn" data-filter="idiom">片語成語</button>
+  </div>
+  <button class="sort-btn" id="sortBtn">📅 最新優先</button>
+</div>
+
+<div class="grid" id="grid"></div>
+<div class="no-results" id="noResults" style="display:none">
+  <div class="emoji">🔍</div>
+  <p>沒有符合的結果</p>
+</div>
+
+<footer>每天 21:00 自動更新 · Powered by Hermes Agent 🌙</footer>
+
+<script>
+const entries = [];
+let filteredEntries = [];
+let sortNewest = true;
+
+const categoryNames = {
+  'daily-phrase': '日常短句',
+  'slang': '流行語',
+  'idiom': '片語成語'
+};
+
+fetch('data/entries.json')
+  .then(r => r.json())
+  .then(data => {
+    entries.push(...data);
+    document.getElementById('entryCount').textContent = `共 ${entries.length} 句`;
+    render();
+  });
+
+function render() {
+  const grid = document.getElementById('grid');
+  const noResults = document.getElementById('noResults');
+  const searchTerm = document.getElementById('searchBox').value.toLowerCase().trim();
+  const activeFilter = document.querySelector('.filter-btn.active').dataset.filter;
+
+  filteredEntries = entries.filter(e => {
+    if (activeFilter !== 'all' && e.category !== activeFilter) return false;
+    if (searchTerm) {
+      const txt = (e.phrase + ' ' + e.meaning + ' ' + e.analysis + ' ' + e.tags.join(' ')).toLowerCase();
+      if (!txt.includes(searchTerm)) return false;
+    }
+    return true;
+  });
+
+  if (sortNewest) {
+    filteredEntries.sort((a, b) => b.date.localeCompare(a.date));
+  } else {
+    filteredEntries.sort((a, b) => a.date.localeCompare(b.date));
+  }
+
+  if (filteredEntries.length === 0) {
+    grid.innerHTML = '';
+    noResults.style.display = 'block';
+    return;
+  }
+  noResults.style.display = 'none';
+
+  grid.innerHTML = filteredEntries.map(e => `
+    <div class="card" onclick="this.classList.toggle('expanded')">
+      <div class="date">
+        ${e.date.replace(/-/g, ' / ')}
+        <span class="tag">${categoryNames[e.category] || e.category}</span>
+      </div>
+      <div class="phrase">「<span class="highlight">${e.phrase}</span>」</div>
+      <div class="meaning">${e.meaning}</div>
+      <div class="expand-hint">👆 點擊展開解析與例句</div>
+      <div class="analysis">${e.analysis}</div>
+      <div class="examples">
+        ${e.examples.map((ex, i) => `<div class="ex">${ex}</div>`).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+// Search
+document.getElementById('searchBox').addEventListener('input', render);
+
+// Filters
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    render();
+  });
+});
+
+// Sort
+document.getElementById('sortBtn').addEventListener('click', () => {
+  sortNewest = !sortNewest;
+  document.getElementById('sortBtn').textContent = sortNewest ? '📅 最新優先' : '📅 最早優先';
+  render();
+});
+</script>
+</body>
+</html>
