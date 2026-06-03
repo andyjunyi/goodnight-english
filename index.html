@@ -434,20 +434,32 @@ function playAudio(btn, mp3, text) {
   // Stop any currently playing audio
   Object.values(audioCache).forEach(a => { try { a.pause(); a.currentTime = 0; } catch(e) {} });
   document.querySelectorAll('.speaker.playing').forEach(b => b.classList.remove('playing'));
-  // Try MP3
-  const audio = new Audio();
+  // iOS-friendly approach: try play() immediately, retry after load if needed
+  const audio = new Audio(mp3);
   audio.preload = 'auto';
-  audio.src = mp3;
-  audio.load();
-  audio.oncanplay = () => {
+  let played = false;
+  const tryPlay = () => {
+    if (played) return;
+    played = true;
     btn.classList.add('playing');
-    const playPromise = audio.play();
-    if (playPromise) {
-      playPromise.catch(() => fallbackSpeak(btn, text));
-    }
+    audio.play().catch(() => {
+      btn.classList.remove('playing');
+      fallbackSpeak(btn, text);
+    });
   };
-  audio.onended = () => btn.classList.remove('playing');
-  audio.onerror = () => fallbackSpeak(btn, text);
+  // Attempt 1: play immediately (works on fast connections)
+  audio.play().then(() => {
+    btn.classList.add('playing');
+    played = true;
+  }).catch(() => {
+    // Attempt 2: wait for audio to load, then play (iOS pattern)
+    audio.addEventListener('canplay', tryPlay, { once: true });
+    audio.addEventListener('loadeddata', tryPlay, { once: true });
+    // Safety timeout: fallback after 5s
+    setTimeout(() => { if (!played) { tryPlay(); } }, 5000);
+  });
+  audio.addEventListener('ended', () => btn.classList.remove('playing'), { once: true });
+  audio.addEventListener('error', () => { if (!played) fallbackSpeak(btn, text); });
   audioCache[mp3] = audio;
 }
 function fallbackSpeak(btn, text) {
