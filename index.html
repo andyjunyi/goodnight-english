@@ -222,7 +222,7 @@
     align-items: flex-start;
     gap: 6px;
   }
-  .card .examples .ex::before { content: '💬 '; font-style: normal; }
+  .card .examples .ex::before { content: '\01F4AC '; font-style: normal; }
 
   /* Speaker button */
   .speaker {
@@ -343,6 +343,10 @@ const categoryNames = {
   'idiom': '片語成語'
 };
 
+function escJS(s) {
+  return s.replace(/'/g, "\\'").replace(/"/g, "&quot;");
+}
+
 fetch('data/entries.json')
   .then(r => r.json())
   .then(data => {
@@ -379,24 +383,29 @@ function render() {
   }
   noResults.style.display = 'none';
 
-  grid.innerHTML = filteredEntries.map(e => `
+  grid.innerHTML = filteredEntries.map(e => {
+    const phrase = escJS(e.phrase);
+    const examples = e.examples.map((ex, i) => {
+      const exEsc = escJS(ex);
+      return `<div class="ex"><span class="ex-text">${ex}</span><button class="speaker" onclick="event.stopPropagation();playAudio(this,'audio/${e.id}-${i}.mp3','${exEsc}')" title="播放發音">🔊</button></div>`;
+    }).join('');
+    return `
       <div class="card" onclick="this.classList.toggle('expanded')">
-      <div class="date">
-        ${e.date.replace(/-/g, ' / ')}
-        <span class="tag">${categoryNames[e.category] || e.category}</span>
+        <div class="date">
+          ${e.date.replace(/-/g, ' / ')}
+          <span class="tag">${categoryNames[e.category] || e.category}</span>
+        </div>
+        <div class="phrase-row">
+          <span class="phrase">「<span class="highlight">${e.phrase}</span>」</span>
+          <button class="speaker" onclick="event.stopPropagation();playAudio(this,'audio/${e.id}.mp3','${phrase}')" title="播放發音">🔊</button>
+        </div>
+        <div class="meaning">${e.meaning}</div>
+        <div class="expand-hint">👆 點擊展開解析與例句</div>
+        <div class="analysis">${e.analysis}</div>
+        <div class="examples">${examples}</div>
       </div>
-      <div class="phrase-row">
-        <span class="phrase">「<span class="highlight">${e.phrase}</span>」</span>
-        <button class="speaker" onclick="event.stopPropagation();speak(this,'${e.phrase.replace(/'/g, "\\'")}')" title="播放發音">🔊</button>
-      </div>
-      <div class="meaning">${e.meaning}</div>
-      <div class="expand-hint">👆 點擊展開解析與例句</div>
-      <div class="analysis">${e.analysis}</div>
-      <div class="examples">
-        ${e.examples.map((ex, i) => `<div class="ex"><span class="ex-text">${ex}</span><button class="speaker" onclick="event.stopPropagation();speak(this,'${ex.replace(/'/g, "\\'")}')" title="播放發音">🔊</button></div>`).join('')}
-      </div>
-    </div>
-  `).join('');
+    `;
+  }).join('');
 }
 
 // Search
@@ -418,8 +427,21 @@ document.getElementById('sortBtn').addEventListener('click', () => {
   render();
 });
 
-// Text-to-Speech
-function speak(btn, text) {
+// Audio playback — MP3 with fallback to SpeechSynthesis
+const audioCache = {};
+function playAudio(btn, mp3, text) {
+  event.stopPropagation();
+  // Stop any currently playing audio
+  Object.values(audioCache).forEach(a => { a.pause(); a.currentTime = 0; });
+  document.querySelectorAll('.speaker.playing').forEach(b => b.classList.remove('playing'));
+  // Try MP3
+  const audio = new Audio(mp3);
+  audio.oncanplaythrough = () => { btn.classList.add('playing'); audio.play().catch(() => fallbackSpeak(btn, text)); };
+  audio.onended = () => btn.classList.remove('playing');
+  audio.onerror = () => fallbackSpeak(btn, text);
+  audioCache[mp3] = audio;
+}
+function fallbackSpeak(btn, text) {
   if (!window.speechSynthesis) return;
   window.speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
@@ -431,6 +453,14 @@ function speak(btn, text) {
   u.onerror = () => btn.classList.remove('playing');
   window.speechSynthesis.speak(u);
 }
+// Stop audio when toggling card expand
+document.addEventListener('click', (e) => {
+  const card = e.target.closest('.card');
+  if (card && !e.target.closest('.speaker')) {
+    Object.values(audioCache).forEach(a => { a.pause(); a.currentTime = 0; });
+    document.querySelectorAll('.speaker.playing').forEach(b => b.classList.remove('playing'));
+  }
+});
 </script>
 </body>
 </html>
