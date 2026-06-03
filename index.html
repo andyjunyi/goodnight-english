@@ -218,8 +218,40 @@
     line-height: 1.6;
     padding: 4px 0;
     font-style: italic;
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
   }
   .card .examples .ex::before { content: '💬 '; font-style: normal; }
+
+  /* Speaker button */
+  .speaker {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border: none;
+    border-radius: 50%;
+    background: rgba(124,92,252,.15);
+    color: var(--accent-light);
+    font-size: .8em;
+    cursor: pointer;
+    transition: all .2s;
+    flex-shrink: 0;
+    vertical-align: middle;
+    margin-left: 4px;
+  }
+  .speaker:hover { background: var(--accent); color: #fff; transform: scale(1.1); }
+  .speaker.playing { background: var(--green); color: #fff; animation: pulse .6s ease infinite; }
+  @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.15); } }
+  .phrase-row {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-bottom: 4px;
+  }
+  .ex-text { flex: 1; }
 
   /* No results */
   .no-results {
@@ -348,17 +380,20 @@ function render() {
   noResults.style.display = 'none';
 
   grid.innerHTML = filteredEntries.map(e => `
-    <div class="card" onclick="this.classList.toggle('expanded')">
+      <div class="card" onclick="this.classList.toggle('expanded')">
       <div class="date">
         ${e.date.replace(/-/g, ' / ')}
         <span class="tag">${categoryNames[e.category] || e.category}</span>
       </div>
-      <div class="phrase">「<span class="highlight">${e.phrase}</span>」</div>
+      <div class="phrase-row">
+        <span class="phrase">「<span class="highlight">${e.phrase}</span>」</span>
+        <button class="speaker" onclick="event.stopPropagation();speak(this,'${e.phrase.replace(/'/g, "\\'")}')" title="播放發音">🔊</button>
+      </div>
       <div class="meaning">${e.meaning}</div>
       <div class="expand-hint">👆 點擊展開解析與例句</div>
       <div class="analysis">${e.analysis}</div>
       <div class="examples">
-        ${e.examples.map((ex, i) => `<div class="ex">${ex}</div>`).join('')}
+        ${e.examples.map((ex, i) => `<div class="ex"><span class="ex-text">${ex}</span><button class="speaker" onclick="event.stopPropagation();speak(this,'${ex.replace(/'/g, "\\'")}')" title="播放發音">🔊</button></div>`).join('')}
       </div>
     </div>
   `).join('');
@@ -382,6 +417,20 @@ document.getElementById('sortBtn').addEventListener('click', () => {
   document.getElementById('sortBtn').textContent = sortNewest ? '📅 最新優先' : '📅 最早優先';
   render();
 });
+
+// Text-to-Speech
+function speak(btn, text) {
+  if (!window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'en-US';
+  u.rate = 0.9;
+  u.pitch = 1;
+  u.onstart = () => btn.classList.add('playing');
+  u.onend = () => btn.classList.remove('playing');
+  u.onerror = () => btn.classList.remove('playing');
+  window.speechSynthesis.speak(u);
+}
 </script>
 </body>
 </html>
