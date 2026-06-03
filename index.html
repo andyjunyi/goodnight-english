@@ -432,11 +432,20 @@ const audioCache = {};
 function playAudio(btn, mp3, text) {
   event.stopPropagation();
   // Stop any currently playing audio
-  Object.values(audioCache).forEach(a => { a.pause(); a.currentTime = 0; });
+  Object.values(audioCache).forEach(a => { try { a.pause(); a.currentTime = 0; } catch(e) {} });
   document.querySelectorAll('.speaker.playing').forEach(b => b.classList.remove('playing'));
   // Try MP3
-  const audio = new Audio(mp3);
-  audio.oncanplaythrough = () => { btn.classList.add('playing'); audio.play().catch(() => fallbackSpeak(btn, text)); };
+  const audio = new Audio();
+  audio.preload = 'auto';
+  audio.src = mp3;
+  audio.load();
+  audio.oncanplay = () => {
+    btn.classList.add('playing');
+    const playPromise = audio.play();
+    if (playPromise) {
+      playPromise.catch(() => fallbackSpeak(btn, text));
+    }
+  };
   audio.onended = () => btn.classList.remove('playing');
   audio.onerror = () => fallbackSpeak(btn, text);
   audioCache[mp3] = audio;
