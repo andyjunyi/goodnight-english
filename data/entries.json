@@ -142,5 +142,24 @@
       "A: I cannot believe they did not agree with my opinion online! B: Maybe you need to touch grass.",
       "After the hike I finally felt like I had touched grass literally."
     ]
+  },
+  {
+    "id": 9,
+    "date": "2026-06-05",
+    "phrase": "Bet",
+    "meaning": "「沒問題！」「說好了！」— 口語中表示同意、確認、或熱情應允",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "conversation",
+      "agreement",
+      "enthusiasm"
+    ],
+    "analysis": "Bet 是2026年美國年輕人間最普及的俚語之一，原義為「打賭」，但在日常口語中已轉化為一個多功能肯定詞。它可以當作「OK」、「沒問題」、「就這麼說定了」來使用，語氣充滿自信與乾脆。與傳統的 \"Okay\" 或 \"Sure\" 相比，\"Bet\" 帶有一種街頭風格的爽快感，在年輕人對話、社群媒體貼文、甚至職場非正式場合中都十分常見。教學時可以將 \"Bet\" 與 \"You bet!\"（當然！）對比，前者是現代Z世代用法、後者是經典美式口語，讓學生同時掌握世代差異。也能延伸到 \"I bet...\"（我敢說⋯⋯）的用法，做同一個字不同句型的對比教學。",
+    "examples": [
+      "A: Want to grab bubble tea after class? B: Bet.",
+      "Bet! I will have the report on your desk by 3 PM.",
+      "A: See you at 7. B: Bet — I will be there."
+    ]
   }
 ]
