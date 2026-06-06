@@ -161,5 +161,25 @@
       "Bet! I will have the report on your desk by 3 PM.",
       "A: See you at 7. B: Bet — I will be there."
     ]
+  },
+  {
+    "id": 10,
+    "date": "2026-06-06",
+    "phrase": "That's a canon event",
+    "meaning": "那是必經的成長事件／每個人都會遇到的事",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "social-media",
+      "viral",
+      "conversation"
+    ],
+    "analysis": "「Canon event」這個俚語源自粉絲圈的「正史/主線劇情」概念（相對於同人或番外篇），2025-2026年被TikTok和Instagram大量挪用為日常用語。它指的是人生中某個必經的、往往有點尷尬或痛苦的經驗——像是第一次失戀、當眾出糗、或是做了件很後悔的事——但這些經驗恰恰塑造了現在的自己。Merriam-Webster已正式收錄這個詞條，可見其普及程度。從教學角度來看，這個詞教起來非常有效：它讓學生用一個遊戲/漫畫的隱喻來討論人生成長，比直接說 \"a necessary life experience\" 或 \"a rite of passage\" 更生動、更有記憶點。很適合用於課堂的「成長經驗分享」口說活動。",
+    "examples": [
+      "I tripped in front of the whole school during my speech. That's a canon event, I guess.",
+      "Getting rejected by your first crush is a canon event -- everyone goes through it.",
+      "My friends won't let me forget my canon event from prom night."
+    ]
   }
 ]
