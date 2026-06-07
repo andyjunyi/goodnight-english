@@ -181,5 +181,25 @@
       "Getting rejected by your first crush is a canon event -- everyone goes through it.",
       "My friends won't let me forget my canon event from prom night."
     ]
+  },
+  {
+    "id": 11,
+    "date": "2026-06-07",
+    "phrase": "No cap",
+    "meaning": "說真的、不騙你、我沒在唬爛",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "social-media",
+      "internet",
+      "agreement",
+      "conversation"
+    ],
+    "analysis": "\"No cap\" 是2026年美國年輕人中最火紅的俚語之一，已經被 Merriam-Webster 和 Cambridge Dictionary 正式收錄。\"Cap\" 在這裡指「謊話、誇大其詞」，所以 \"no cap\" 就是「沒在說謊、千真萬確」。它可以用在句首、句中或句末，功能類似於 \"for real\"、\"no lie\"、\"I'm serious\"。這個字非常口語，適合在會話課中介紹給學生，幫助他們聽懂美劇、YouTube影片和社群媒體上的真實對話。老師可以搭配中文的「不唬爛」來對比教學，讓學生更快掌握語感。",
+    "examples": [
+      "That new pizza place is fire, no cap!",
+      "No cap, this is the best movie I have seen all year.",
+      "He said he ran a marathon without training — that is big cap."
+    ]
   }
 ]
