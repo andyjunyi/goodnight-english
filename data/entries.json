@@ -201,5 +201,25 @@
       "No cap, this is the best movie I have seen all year.",
       "He said he ran a marathon without training — that is big cap."
     ]
+  },
+  {
+    "id": 12,
+    "date": "2026-06-08",
+    "phrase": "hold the fort",
+    "meaning": "代替留守、暫代職務 -- 在他人不在時負責看管或處理事情",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "conversation",
+      "daily-phrase",
+      "metaphor",
+      "personality"
+    ],
+    "analysis": "「Hold the fort」源自軍事用語，原指在作戰時「守住堡壘」。現代日常使用中，意思已擴展為：當某人暫時離開時，由你來負責看管場所、處理事情或維持運作。這個片語非常生活化——同事請假時你代班、店員短暫離開櫃檯、甚至在家幫室友接電話，都可以用。美國人常說「hold down the fort」，兩者意思完全相同。教學上建議先介紹字面意象（堡壘與守衛），再用情境引導學生理解比喻用法，最後讓學生自己造句練習。這是一個非常實用的職場英語片語，也是多益聽力常見用語。",
+    "examples": [
+      "Can you hold the fort while I step out for a coffee?",
+      "My boss is on vacation, so I am holding the fort at the office this week.",
+      "She held the fort at home while her husband went on a business trip."
+    ]
   }
 ]
