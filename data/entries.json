@@ -283,5 +283,24 @@
       "The party was giving Coachella vibes with all the lights and music.",
       "Your new profile pic is giving 90s movie star - I love it!"
     ]
+  },
+  {
+    "id": 16,
+    "date": "2026-06-12",
+    "phrase": "I'm down",
+    "meaning": "我願意！算我一份！加我！",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "agreement",
+      "enthusiasm"
+    ],
+    "analysis": "「I'm down」是美國日常對話中超高頻使用的口語短句，台灣教科書幾乎不會出現，但母語者一天到晚都在用。當有人提議一個活動或計劃，你想表達「好啊，我參加 / 我願意 / 算我一份」的時候，一句乾淨俐落的「I'm down」比「I agree」或「I want to join」自然得多。它跟「I'm up for it」意思接近，但語氣更乾脆、更有街頭感。特別注意不要跟「I feel down」（我心情低落）搞混——前者是「我願意」，後者是「我好沮喪」，重音與語氣完全不同。教學上建議先讓學生區分這兩個容易混淆的用法，再搭配情境對話反覆練習，學生很快就能在真實對話中自信地使用。",
+    "examples": [
+      "A: \"Some of us are going for bubble tea after class, want to come?\" B: \"I'm down!\"",
+      "If you're planning a hiking trip this weekend, I'm down to join.",
+      "A: \"Anyone up for karaoke tonight?\" B: \"I'm down, but only if we get mango shaved ice afterwards.\""
+    ]
   }
 ]
