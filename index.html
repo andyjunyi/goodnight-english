@@ -347,7 +347,7 @@ function escJS(s) {
   return s.replace(/'/g, "\\'").replace(/"/g, "&quot;");
 }
 
-fetch('data/entries.json')
+fetch(`data/entries.json?t=${Date.now()}`)
   .then(r => r.json())
   .then(data => {
     entries.push(...data);
