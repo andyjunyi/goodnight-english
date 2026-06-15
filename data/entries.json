@@ -322,5 +322,41 @@
       "This cafe is giving cozy autumn energy with all the warm lighting.",
       "A: 'How was the party?' B: 'It was giving chaos -- too many people, loud music everywhere.'"
     ]
+  },
+  {
+    "id": 18,
+    "date": "2026-06-14",
+    "phrase": "keep someone in the loop",
+    "meaning": "讓某人知情、隨時更新消息給某人",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "business",
+      "workplace",
+      "daily-conversation"
+    ],
+    "analysis": "這個片語字面上是「把某人留在圈子裡」，實際意思是在資訊流通的圈子裡不讓某人掉出去——也就是「持續讓某人知道最新情況」。這在職場溝通中極度常用，幾乎是上班族必備單字。例如開完會後同事會說「Keep me in the loop on the client's response.」意思是客戶有回應時讓我知道。反義詞是 leave someone out of the loop（把某人排除在資訊圈外）。對台灣學生來說，這是非常實用的職場英語，教學時可以搭配情境：模擬一個團隊專案中不同成員需要被「keep in the loop」的場景。進階用法可延伸到被動式「I'd like to be kept in the loop.」——這句在面試或入職時很常用，表達你想要積極參與的態度。",
+    "examples": [
+      "Keep me in the loop on the client's response — I want to know as soon as they reply.",
+      "I'd appreciate it if you could keep me in the loop regarding the hiring decision."
+    ]
+  },
+  {
+    "id": 19,
+    "date": "2026-06-15",
+    "phrase": "I'll take it from here",
+    "meaning": "我來接手，接下來交給我吧",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "workplace",
+      "collaboration",
+      "daily-conversation"
+    ],
+    "analysis": "這句話在日常生活和職場中都超級實用。字面意思是「我從這裡接手」，用在你想要接過別人正在進行的事情時。語氣可以是友善的幫忙——例如同事在跟客戶溝通但有點卡住了，你可以說「I'll take it from here」去接手；也可以是自信的宣告——例如團隊討論完方向後，你站出來說「I'll take it from here」表示你來執行。教學上可以強調這個句子的社交功能：它既是「讓我來幫你」的禮貌說法，也是「交給我，你放心」的自信表達。對台灣學生來說，最實用的場景可能是小組報告、分組討論或打工時需要接手工作的情境。進階變化有：You've done enough, I'll take it from here.（你已經做夠多了，接下來我來吧）— 這句話既可以表達感謝，也可能帶有微妙的「你做得不太好，我來吧」的暗示，使用時要注意語氣！",
+    "examples": [
+      "You've explained the background nicely — I'll take it from here.",
+      "Thanks for setting up the meeting. I'll take it from here and send out the notes."
+    ]
   }
 ]
