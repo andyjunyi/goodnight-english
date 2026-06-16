@@ -358,5 +358,25 @@
       "You've explained the background nicely — I'll take it from here.",
       "Thanks for setting up the meeting. I'll take it from here and send out the notes."
     ]
+  },
+  {
+    "id": 20,
+    "date": "2026-06-16",
+    "phrase": "move the needle",
+    "meaning": "產生顯著影響／帶來實質進展",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "business",
+      "workplace",
+      "daily-conversation",
+      "metaphor"
+    ],
+    "analysis": "「Move the needle」字面上是「移動指針」，源自儀表板上的指針——指針移動代表有實質變化發生。這個片語在美式職場和商業場合極度常見，用來形容某個行動是否真的帶來顯著影響。生活化例子：每天背10個單字可能感覺沒什麼，但一個月後就會發現「it actually moves the needle」——英文真的有進步。教學上建議先用儀表板的圖像建立畫面感，再延伸到職場和個人成長情境。進階用法可搭配否定型「doesn't move the needle」（做了但沒什麼差別），在日常對話中也非常實用。",
+    "examples": [
+      "Posting once a week doesn't really move the needle — you need to post daily to grow your audience.",
+      "Switching to this new software really moved the needle on our team's productivity.",
+      "Studying ten minutes a day might not seem like much, but over time it moves the needle."
+    ]
   }
 ]
