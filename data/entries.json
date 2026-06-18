@@ -398,5 +398,25 @@
       "A: \"I know most people use chopsticks, but I prefer a fork.\" B: \"Hey, you do you.\"",
       "My mom doesn't get my career choice, but my friends are like 'you do you.'"
     ]
+  },
+  {
+    "id": 22,
+    "date": "2026-06-18",
+    "phrase": "read the room",
+    "meaning": "察言觀色、讀懂空氣 — 觀察當下場合的氣氛與他人情緒，並據此調整自己的言行",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "social-skills",
+      "workplace",
+      "daily-conversation",
+      "emotional-intelligence"
+    ],
+    "analysis": "「Read the room」字面上是「讀房間」，真正的意思是在任何社交場合中，快速掃描、感知在場眾人的情緒、態度和氛圍，然後做出合宜的反應。這個片語在美國職場、聚會、甚至朋友閒聊中都極度常用——想像你在會議室裡正要開一個玩笑，但瞄一眼發現老闆臉色鐵青，這時候你就是在「read the room」並決定閉嘴。對台灣學生來說，這個概念跟日文的「空気を読む」（讀空氣）幾乎完美對應，很多學生透過日本動漫已經熟悉這個概念，學起來特別快。教學上建議從「KY」（不會讀空氣）這個學生熟悉的流行語切入，再過渡到英文的 read the room，最後用職場和社交情境做對話練習。也別忘了否定型「fail to read the room」——沒讀懂氣氛而出糗，這在描述尷尬時刻時超好用！",
+    "examples": [
+      "Before you crack a joke in a meeting, read the room first — your boss looks stressed.",
+      "She read the room perfectly and waited for the right moment to bring up her idea.",
+      "I should have read the room before asking for a raise — the company just announced layoffs."
+    ]
   }
 ]
