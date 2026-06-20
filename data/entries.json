@@ -438,5 +438,25 @@
       "This team understood the assignment — the presentation was flawless.",
       "A: 'Did you see his Halloween costume?' B: 'Yes! He absolutely understood the assignment.'"
     ]
+  },
+  {
+    "id": 24,
+    "date": "2026-06-20",
+    "phrase": "on the same page",
+    "meaning": "有共識、想法一致——大家都在同一個理解基礎上，沒有誤會或落差",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "workplace",
+      "daily-conversation",
+      "collaboration",
+      "communication"
+    ],
+    "analysis": "「On the same page」字面上是「在同一頁」，但真正的意思遠比字面豐富——它形容一群人對某件事的理解、目標或期待完全一致，沒有資訊落差或誤解。這個片語在美國職場和日常生活中都極度常見，從小組報告分工到情侶溝通都可以使用。想像一下：你跟組員討論報告分工，大家你一言我一語講了半小時，最後你用一句「So, are we all on the same page?」來確認所有人都清楚了——這就是這個片語最經典的使用情境。對台灣學生來說，這個片語特別實用，因為它解決了一個常見的溝通痛點：中文裡我們常說「大家有沒有問題？」但英文裡用「on the same page」更道地、更專業，還能表現出你對團隊協作的重視。教學上建議搭配小組活動練習，讓學生模擬會議或討論場景，反覆使用「get on the same page」「make sure we're on the same page」「not on the same page」這三個變化形，很快就能自然產出。",
+    "examples": [
+      "Before we move forward, I just want to make sure we're all on the same page about the deadline.",
+      "My partner and I weren't on the same page about finances, so we sat down and talked it through.",
+      "Let's have a quick meeting to get everyone on the same page before the project kicks off."
+    ]
   }
 ]
