@@ -477,5 +477,25 @@
       "The flight got canceled and there's nothing we can do about it. It is what it is.",
       "We didn't get the contract this time. It is what it is — let's focus on the next opportunity."
     ]
+  },
+  {
+    "id": 26,
+    "date": "2026-06-22",
+    "phrase": "Slay",
+    "meaning": "「太強了！」「超殺！」——做得非常出色、氣場全開",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "compliment",
+      "social-media",
+      "internet",
+      "confidence"
+    ],
+    "analysis": "「Slay」這個字原意為「殺死」，但在現代俚語中已完全轉化為超級正向的讚美用詞——意思是某人做得太出色、太厲害了，無論是穿搭、表演、還是任何成就都可以用。它在2010年代由LGBTQ+社群和變裝文化推動普及，到了2025-2026年已成為主流通用讚美語，從TikTok到校園、從職場到日常對話無處不在。對台灣學生來說，這個詞超級好學好記——只有一個音節，而且使用情境極廣：朋友穿了件好看的衣服→「You slay!」、同學報告做得超完美→「She slayed that presentation!」、偶像出了新歌→「This song slays!」。文法變化也很簡單：slay（現在式）、slayed（過去式）、slaying（進行式）。教學上建議從最經典的「You slay!」切入，讓學生立刻能產出，再延伸過去式和進行式變化。也可以補充文化冷知識：slay雖然已是主流用語，但其根源來自非裔和LGBTQ+文化，適時引導學生尊重語言背後的文化脈絡，讓語言學習更有深度。",
+    "examples": [
+      "That outfit is amazing — you slay!",
+      "She slayed that presentation. Everyone was impressed.",
+      "Every time this song comes on, I have to dance. It just slays."
+    ]
   }
 ]
