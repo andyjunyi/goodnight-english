@@ -497,5 +497,24 @@
       "She slayed that presentation. Everyone was impressed.",
       "Every time this song comes on, I have to dance. It just slays."
     ]
+  },
+  {
+    "id": 27,
+    "date": "2026-06-23",
+    "phrase": "take it with a grain of salt",
+    "meaning": "「聽聽就好，不要全信」——對聽到的資訊抱持保留態度",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "conversation",
+      "critical-thinking",
+      "media-literacy"
+    ],
+    "analysis": "「Take it with a grain of salt」字面上是「加一小撮鹽吃下去」，這個有趣的意象可追溯自古羅馬時期——老普林尼（Pliny the Elder）曾記載，加入少許鹽可以幫助對抗毒藥的影響，後來慢慢演變為「對某件事持保留態度、不全盤相信」的意思。現代用法極度廣泛：聽到八卦傳聞、網路上的聳動標題、朋友自誇的成績，甚至政治人物開的支票，都可以套用這句話。對台灣學生來說，這句話超實用——我們常說「聽聽就好」，英文裡用 take it with a grain of salt 就是那個味道，語氣不帶惡意，更像是一種理性、成熟的保留態度。教學上可以從「為什麼是鹽？」這個問題引發學生好奇，解釋典故後搭配時事新聞或社群貼文做閱讀練習，讓學生判斷哪些資訊該 take with a grain of salt，同時訓練批判思考與媒體識讀能力。建議也補充否定型「don't take it with a grain of salt」（這次你可以相信）的用法，讓表達更完整。",
+    "examples": [
+      "I read that article online, but I'd take it with a grain of salt — the source isn't very reliable.",
+      "He says he can bench press 200 pounds, but I'd take that with a grain of salt.",
+      "When reading product reviews, always take them with a grain of salt — some are paid promotions."
+    ]
   }
 ]
