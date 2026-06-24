@@ -516,5 +516,25 @@
       "He says he can bench press 200 pounds, but I'd take that with a grain of salt.",
       "When reading product reviews, always take them with a grain of salt — some are paid promotions."
     ]
+  },
+  {
+    "id": 28,
+    "date": "2026-06-24",
+    "phrase": "Good call",
+    "meaning": "「好主意！」「這個決定很明智！」— 稱讚對方的判斷或決策很正確",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "agreement",
+      "compliment",
+      "decision-making"
+    ],
+    "analysis": "「Good call」字面上是「好的判斷／決定」，日常對話中用來稱讚某人做了一個明智的決定或提出了一個好點子。這個短語源自運動裁判用語——裁判做出判決稱為「call」，好的判決就是 good call。現代已完全生活化：朋友決定搭捷運避開塞車→「Good call!」、同事建議換個方法做簡報→「Good call!」、甚至自己多帶一件外套結果真的變冷，朋友也可以說「Good call on the jacket!」。對台灣學生來說，這句話只有兩個單字，超級好學好用，而且和中文的「好主意！」高度對應。教學上可以對比學生已會的「Good idea」——「Good call」更強調「判斷力」和「決策品質」，而不只是「點子不錯」，語氣更貼近母語者的自然口語。另一個常見變化是「bad call」（錯誤的決定），學一對就更有表達力。這個短語在校園、打工、聚會等各種場合都適用，非常萬用。",
+    "examples": [
+      "A: \"Let's take the MRT instead of driving — traffic looks terrible.\" B: \"Good call.\"",
+      "Bringing snacks to the study session was a good call — we were all starving by 9 PM.",
+      "A: \"I think we should present this data first to grab their attention.\" B: \"Good call, let's do that.\""
+    ]
   }
 ]
