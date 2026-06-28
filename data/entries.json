@@ -595,5 +595,25 @@
       "You want boba? Say less, I know the best spot.",
       "A: \"We need someone to present the slides.\" B: \"Say less, I got this.\""
     ]
+  },
+  {
+    "id": 32,
+    "date": "2026-06-28",
+    "phrase": "I'm cooked",
+    "meaning": "「我完了／我累爆了」——形容自己極度疲憊、陷入麻煩、或無力回天的狀態",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "social-media",
+      "daily-conversation",
+      "Gen-Z"
+    ],
+    "analysis": "「Cooked」原意是「煮熟了」，在2025-2026年美國年輕人口語中已演化出豐富的雙重意思。最常見的負面用法「I'm cooked」意思是「我完蛋了、我累爆了、我沒救了」——想像一隻被煮熟的蝦子，動彈不得，生動地表達疲憊至極或山窮水盡的狀態。例如期末考前一晚發現根本讀不完，就可以說「I'm cooked」。但它同時也有正面用法！「Let him cook」意思是「讓他發揮、別打擾他」，源自籃球場上叫隊友讓手感正燙的球員繼續主導進攻。「He's cooking」則是「他現在超強、狀態極佳」。同一個 cook 可以從極正面到極負面，端看上下文，這正是學習語言的趣味所在。教學上建議先教「I'm cooked」這個最常用的負面用法——學生對「完蛋了」的情境最有共鳴；再引進「Let him cook」做對比，讓學生感受同一個字在不同語境中的巨大差異。課堂活動可以讓學生造句競賽：誰能用 cooked 造出最有趣的情境句？也別忘了提醒學生：這是極口語用法，正式寫作或對長輩說話時要換成 exhausted / in trouble。",
+    "examples": [
+      "I have three exams tomorrow and I haven't studied for any of them. I'm so cooked.",
+      "A: \"Did you see him play basketball today?\" B: \"Yeah, let him cook — he hasn't missed a shot all game.\"",
+      "After working a double shift, I came home and just collapsed on the couch. I was absolutely cooked."
+    ]
   }
 ]
