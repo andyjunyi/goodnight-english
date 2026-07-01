@@ -655,5 +655,25 @@
       "You baked this cake from scratch? You totally nailed it!",
       "After three tries, he finally nailed that guitar solo -- it sounded exactly like the record."
     ]
+  },
+  {
+    "id": 35,
+    "date": "2026-07-01",
+    "phrase": "caught in 4K",
+    "meaning": "「被高清抓包」— 做壞事或尷尬事被拍到／被逮到，證據確鑿、無法抵賴",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "social-media",
+      "daily-conversation",
+      "Gen-Z"
+    ],
+    "analysis": "「Caught in 4K」字面上是「被4K畫質拍到」，這個2025-2026年在社群平台上超級流行的俚語，源自監視器或手機拍攝的高畫質畫面——4K解析度意味著畫面清晰到無法否認，任何小動作都一覽無遺。當某人做了一件尷尬、好笑或見不得人的事被「完整紀錄」下來時，就可以說「They got caught in 4K」。這個短語已從網路迷因進化為日常口語，無論是朋友說謊被抓包、偶像被拍到約會、還是你自己偷吃零食被室友撞見，通通適用。對台灣學生來說，這個短語的視覺意象極強——想像一下，你的手機是4K相機，拍到的畫面清晰到無法狡辯，這就是「caught in 4K」的精髓。教學上可以先從4K解析度的概念切入建立畫面感，再引導到抽象用法，最後讓學生分享生活中曾經「caught in 4K」的有趣經驗。文法上常用被動式「get caught in 4K」，也可直接當作驚嘆語使用，非常靈活。對比中文的「抓包」，caught in 4K多了「影像證據」這層含義，且語氣更幽默、不帶惡意。課堂活動建議可讓學生分組演出一個「被抓包」的短劇，練習在對話中自然使用 caught in 4K，既能練口說又充滿歡笑，是很好的互動教學設計。",
+    "examples": [
+      "He said he was 'studying all night,' but his Instagram story caught him in 4K at the party.",
+      "A: 'I didn't eat the last slice of pizza.' B: 'Bro, there's sauce on your shirt — you're caught in 4K!'",
+      "She tried to act chill, but her face when he walked in caught her feelings in 4K."
+    ]
   }
 ]
