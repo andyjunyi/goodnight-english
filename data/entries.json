@@ -695,5 +695,25 @@
       "I'm just an intern, so I don't call the shots around here.",
       "You're the boss, so you call the shots. What's the plan?"
     ]
+  },
+  {
+    "id": 37,
+    "date": "2026-07-03",
+    "phrase": "I feel you",
+    "meaning": "我懂你／我理解你的感受 — 表達共鳴與同理心的口語說法",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "empathy",
+      "agreement",
+      "support"
+    ],
+    "analysis": "「I feel you」字面上是「我感覺到你」，但這句日常口語的真正意思是「我懂你」、「我理解你的感受」——不只是理性上的理解，而是情感上的共鳴。當朋友跟你抱怨工作太累、考試太難、或是感情不順時，與其說生硬的「I understand」或「I know how you feel」，一句輕巧的「I feel you」更能傳達那種「對，我也經歷過，我完全懂」的同理心。這個短語在美國日常對話中極度常見，且不分年齡層，從高中生到上班族都在用。對台灣學生來說，這句話只有三個單字，發音簡單好記，而且與中文的「我懂你」幾乎完美對應，學起來幾乎無痛。但要特別注意：「I feel you」是口語用語，正式寫作或對長輩、老師說話時，還是建議使用「I understand」或「I can relate」。另一個衍生用法「I feel that」意思也接近，但語氣稍微輕一點，適合回應比較瑣碎的小抱怨。課堂活動可以讓學生配對，一人用英文分享最近的煩惱，另一人用「I feel you」回應，練習表達同理心。",
+    "examples": [
+      "A: \"This math homework is killing me.\" B: \"I feel you — I stayed up until 2 AM doing it.\"",
+      "\"You're stressed about the job interview? I feel you. I was so nervous before mine too.\"",
+      "\"I feel you on the rainy weather thing. This gloom is really getting to me.\""
+    ]
   }
 ]
