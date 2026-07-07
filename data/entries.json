@@ -775,5 +775,25 @@
       "I applied for my dream job even though I only met half the requirements. Delulu is the solulu, right?",
       "Sometimes being a little delulu is exactly what you need to take that first step."
     ]
+  },
+  {
+    "id": 41,
+    "date": "2026-07-07",
+    "phrase": "steal someone's thunder",
+    "meaning": "搶走某人的風采／功勞 — 把別人原本該受到的關注或讚美奪走",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "workplace",
+      "social-skills",
+      "history"
+    ],
+    "analysis": "「Steal someone's thunder」字面上是「偷走某人的雷聲」，這個有趣的片語背後有一段真實的歷史故事：1704年，英國劇作家 John Dennis 發明了一種新的舞台音效機器來模擬雷聲。後來他的劇作票房不佳被撤檔，但緊接著上演的另一齣戲卻「借用」了他的雷聲機器。Dennis 氣得大喊：「They stole my thunder!」（他們偷走了我的雷聲！）——這句抱怨就這樣流傳了三百多年，變成英文中的經典片語。現代用法非常廣泛：朋友在你的生日派對上宣布自己懷孕、同事在會議中搶先講出你準備好的點子、弟弟在你領獎時突然表演後空翻——這些都是 steal your thunder。對台灣學生來說，這個片語超級實用，因為中文沒有一句完全對等的短語，但情境人人都有共鳴。教學上建議先講歷史典故引發興趣（學生通常對這種八卦起源很有感），再延伸到現代生活情境做造句練習。文法上特別注意：thunder 前面要加所有格（my/your/his/her/their），而且 thunder 永遠單數。另一個常用變化是被動語態「have my thunder stolen」（我的風采被搶走了），在抱怨情境中非常好用。課堂活動可以讓學生分享自己被 steal thunder 的經驗，既能練習口說又能讓大家會心一笑。",
+    "examples": [
+      "I wanted to announce my engagement at the family dinner, but my cousin stole my thunder by revealing she's pregnant.",
+      "Don't steal her thunder — she worked really hard on this presentation, let her present the results.",
+      "He always tries to steal his coworkers' thunder in meetings by jumping in with their ideas first."
+    ]
   }
 ]
