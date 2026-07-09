@@ -815,5 +815,25 @@
       "I totally messed up the schedule — that's on me, I should have double-checked.",
       "Don't worry about the bubble tea — that's on me today."
     ]
+  },
+  {
+    "id": 43,
+    "date": "2026-07-09",
+    "phrase": "Valid",
+    "meaning": "「說得對、完全合理」—— 一句話表達你完全理解且認同對方的感受或觀點",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "conversation",
+      "agreement",
+      "social-media",
+      "validation"
+    ],
+    "analysis": "「Valid」原意是「有效的、有根據的」，但在2025-2026年美國年輕人的口語中，它已進化為一個超級萬用的單字回應——當你想表達「說得好」、「完全合理」、「你的感受我懂」的時候，只要一個「Valid.」就夠了。它的妙處在於：你不需要完全同意對方的立場，但你認可對方有這樣感受或觀點的權利。例如朋友說「我覺得香菜很噁心」，你就算愛吃香菜，也可以回一句「Valid.」來表達尊重。對台灣學生來說，這是比「I agree」或「You're right」更自然、更有態度的回應方式，而且只有一個單字，零學習門檻。教學上可以讓學生對比「Valid」和「True」的差異——「True」是客觀陳述事實，「Valid」則是主觀認可對方的感受具合理性。課堂上可以玩「Valid / Not Valid」遊戲：老師拋出各種生活情境句子，學生舉牌判斷該感受是否 valid，既能練聽力又充滿互動樂趣。",
+    "examples": [
+      "A: \"I need a nap before we go out.\" B: \"Valid.\"",
+      "You don't like mushrooms? Valid — the texture is weird.",
+      "Honestly, choosing sleep over the party is so valid."
+    ]
   }
 ]
