@@ -835,5 +835,25 @@
       "You don't like mushrooms? Valid — the texture is weird.",
       "Honestly, choosing sleep over the party is so valid."
     ]
+  },
+  {
+    "id": 44,
+    "date": "2026-07-10",
+    "phrase": "play it by ear",
+    "meaning": "見機行事、到時候再看——不事先做死板計劃，根據當下情況隨機應變",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "decision-making",
+      "flexibility",
+      "music"
+    ],
+    "analysis": "「Play it by ear」字面上是「用耳朵來演奏」，這個有趣的片語源自音樂領域——當樂手不看樂譜、全憑聽覺與直覺即興演奏時，就是在 play it by ear。現代用法已完全生活化，意思是「不做死板的計劃，根據當下情況隨機應變」。想像朋友問你週末有什麼安排，你還沒想好，就可以說「Let's play it by ear.」——等於中文的「到時候再看看」、「看情況再說」。對台灣學生來說，這個片語超級實用，因為它完美對應了日常對話中常說的「見機行事」、「再說啦」這些隨興表達。在職場中也很好用：主管問你專案的下一步，你可以說「We have a rough outline, but we'll play it by ear depending on the client's feedback.」——既展現了彈性又不會顯得沒準備。教學上建議先從音樂意象切入建立畫面感（可以播放一段爵士樂手即興演奏的影片），再引導到日常對話和職場應用，讓學生感受從具體到抽象的語義延伸。文法上注意：play it by ear 是固定片語，it 不可省略，且 ear 維持單數。進階可補充名詞變化「ear player」——指不看譜、憑聽覺演奏的音樂人（台灣常說的「抓歌」高手），是很棒的延伸教材。",
+    "examples": [
+      "We don't need a strict plan for the road trip — let's just play it by ear and see where we end up.",
+      "A: \"What time should we meet tomorrow?\" B: \"I'm not sure yet — let's play it by ear.\"",
+      "The agenda is flexible, so we'll play it by ear based on how the discussion goes."
+    ]
   }
 ]
