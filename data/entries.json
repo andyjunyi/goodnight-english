@@ -855,5 +855,25 @@
       "A: \"What time should we meet tomorrow?\" B: \"I'm not sure yet — let's play it by ear.\"",
       "The agenda is flexible, so we'll play it by ear based on how the discussion goes."
     ]
+  },
+  {
+    "id": 45,
+    "date": "2026-07-11",
+    "phrase": "Tell me about it",
+    "meaning": "「還用你說！我超懂！」——以反諷語氣表達強烈共鳴",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "agreement",
+      "empathy",
+      "sarcasm"
+    ],
+    "analysis": "「Tell me about it」是美式日常對話中超級高頻的口語短句，但也是台灣學生最容易掉入「中譯英陷阱」的經典例子——字面上是「告訴我這件事」，但真正的意思恰恰相反：它不是請對方「多說一點」，而是在說「你不用說了，我完全懂，因為我早就經歷過了！」語氣中帶有一種「還用你說」的反諷幽默。想像一下：同事跟你抱怨老闆今天心情超差，你回一句 \"Tell me about it\"——意思不是「快告訴我細節」，而是「我早就領教過了，完全懂你」。朋友說帶小孩好累，你回 \"Tell me about it\"——等於「這還用說，我太懂了」。這個短語的妙處在於它用「邀請對方多說」的表面句型，表達「我早就有共鳴」的內涵，是典型的美式反諷（sarcasm）。對台灣學生來說，這比 \"I know\" 或 \"I understand\" 有溫度太多了——它傳達的是「我們是同一國的，你的痛苦我懂」那種惺惺相惜的感覺。教學上建議先示範「字面 vs 真實意思」的反差讓學生會心一笑，再導入情境對話反覆練習。特別提醒：語氣決定了這句話是溫暖共鳴還是酸人諷刺——微笑著說和翻白眼說，效果天差地遠。另一個進階用法是 \"You're telling me!\"，意思幾乎相同，可以一起學。",
+    "examples": [
+      "A: \"This traffic is driving me crazy.\" B: \"Tell me about it — I've been stuck here for an hour.\"",
+      "A: \"Raising a toddler is exhausting.\" B: \"Tell me about it — mine woke up at 5 AM today.\"",
+      "You think your boss is tough? Tell me about it — mine once made me redo a report five times."
+    ]
   }
 ]
