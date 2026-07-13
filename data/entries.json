@@ -895,5 +895,25 @@
       "That presentation was incredible — you really ate.",
       "I was nervous about my interview, but honestly? I think I ate."
     ]
+  },
+  {
+    "id": 47,
+    "date": "2026-07-13",
+    "phrase": "the elephant in the room",
+    "meaning": "房間裡的大象——一個顯而易見、但人人都刻意避而不談的尷尬問題",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "conversation",
+      "social-skills",
+      "workplace",
+      "conflict-resolution"
+    ],
+    "analysis": "「The elephant in the room」字面上是「房間裡的大象」，這個畫面感極強的片語用來形容一個極其明顯的重大問題，但因為太尷尬或太敏感，在場所有人明明都知道，卻集體假裝沒看到——就像客廳裡真有一頭大象，但大家繼續悠哉喝茶聊天。這個片語可追溯到19世紀俄國作家杜斯妥也夫斯基的作品，20世紀後半在英語世界普及，如今從職場會議、家庭聚會到國際關係報導都廣泛使用。對台灣學生來說，這個片語超級實用——小組報告有人擺爛但沒人敢點破、家庭聚餐時全桌迴避某個敏感話題、會議中一個明顯的專案風險沒人願意提出，通通都是 elephant in the room。教學上建議先讓學生想像「客廳有一頭大象」的荒謬畫面建立語感，再引導到抽象用法。常用搭配動詞有 address（正視/處理）、ignore（無視）、point out（指出），例如「It's time to address the elephant in the room.」就是「該來談談這個大家都在裝沒看見的問題了」。這個片語不僅能幫助學生聽懂美劇和職場對話，更傳遞了一種重要的溝通態度：有些事越不講越嚴重，勇敢說出來才是解方。",
+    "examples": [
+      "Nobody wants to talk about the budget cuts, but it's the elephant in the room.",
+      "At the family dinner, everyone knew my cousin dropped out of college — talk about an elephant in the room.",
+      "Can we address the elephant in the room? We're two weeks behind schedule and no one's said anything."
+    ]
   }
 ]
