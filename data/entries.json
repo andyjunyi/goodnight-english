@@ -935,5 +935,25 @@
       "The client had a lot of feedback, we made several revisions, and long story short, we're launching next week.",
       "Long story short, I missed my flight, lost my luggage, and ended up taking a 10-hour bus ride home."
     ]
+  },
+  {
+    "id": 49,
+    "date": "2026-07-15",
+    "phrase": "Mid",
+    "meaning": "普普通通、不怎麼樣——比普通還普通的平庸",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "social-media",
+      "internet",
+      "Gen-Z",
+      "opinion"
+    ],
+    "analysis": "「Mid」是2025-2026年美國年輕人最愛用的評價詞之一，字面上來自 middle（中間），在口語中已演變為「平庸、不怎麼樣、普普通通」的意思。它比「bad」更溫和、比「okay」更冷淡——說一個東西是 mid，代表它沒有很差但也毫無亮點，就是個「還好而已」。這個詞在TikTok、Instagram、YouTube留言區到處都是，年輕人用它評價電影、食物、穿搭、甚至約會對象。對台灣學生來說，mid 只有三個字母、一個音節，發音就是「密德」，超級好學好用。教學上可以對比學生已會的「average」和「so-so」——mid 更口語、更有態度，且帶有一種「我期待更高但失望了」的微妙語氣。注意：mid 是形容詞，不用加任何詞綴，直接說「That movie was mid.」即可。課堂上可以玩「Mid or Fire?」遊戲——老師拋出各種事物（某部電影、某道菜、某個景點），學生用 mid 或 fire 投票評價，既能練口說又充滿互動樂趣。",
+    "examples": [
+      "Everyone was hyping up that new restaurant, but honestly? The food was mid.",
+      "I don't get why this song is so popular — it's kind of mid to me.",
+      "A: 'How was your date?' B: 'It was mid. Nice person, but no spark.'"
+    ]
   }
 ]
