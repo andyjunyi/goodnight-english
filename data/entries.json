@@ -955,5 +955,25 @@
       "I don't get why this song is so popular — it's kind of mid to me.",
       "A: 'How was your date?' B: 'It was mid. Nice person, but no spark.'"
     ]
+  },
+  {
+    "id": 50,
+    "date": "2026-07-16",
+    "phrase": "hit the nail on the head",
+    "meaning": "一針見血、說得完全精準——精確指出問題核心或事實真相",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "conversation",
+      "workplace",
+      "accuracy",
+      "daily-conversation"
+    ],
+    "analysis": "「Hit the nail on the head」字面上是「釘子敲在釘子頭上」，畫面感超強——想像你拿著鐵鎚，準確敲在釘子正中央，不偏不倚、一次到位，這就是這個片語的核心意象。現代用法非常廣泛：當某人說了一句話或做了一個判斷，精準到讓人忍不住想拍桌說「對！就是這樣！」的時候，就是 hit the nail on the head。這個片語在美國職場和日常對話中極度常見——同事分析出專案卡關的真正原因、朋友點出你最近心情不好的根源、老師一句話講中你的學習盲點，通通適用。對台灣學生來說，這個片語超實用，因為它提供了比「You're right」或「Exactly」更有畫面感和讚美力道的表達方式。教學上建議先用鐵鎚敲釘子的影片或圖像建立畫面感，再引導到抽象用法，最後讓學生回想生活中「被一語道破」的經驗來造句。文法上常用過去式 hit（三態同形），也可以說「You really hit the nail on the head with that comment」，主詞靈活、句型好套用。延伸教學可對比中文成語「一針見血」，兩者意象不同（英文是鐵鎚釘子、中文是針刺出血）但核心意思幾乎完美對應，是非常好的跨文化語言比較素材。",
+    "examples": [
+      "You hit the nail on the head — that's exactly why the project failed.",
+      "When she said I was overthinking things, she really hit the nail on the head.",
+      "The consultant hit the nail on the head when she identified our communication problem."
+    ]
   }
 ]
