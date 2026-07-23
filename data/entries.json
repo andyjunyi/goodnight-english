@@ -1095,5 +1095,25 @@
       "My mom's homemade dumplings are bussin' — no restaurant can compete.",
       "A: \"How's the fried chicken?\" B: \"Bussin'. Best I've ever had.\""
     ]
+  },
+  {
+    "id": 57,
+    "date": "2026-07-23",
+    "phrase": "face the music",
+    "meaning": "面對現實、承擔後果——鼓起勇氣接受自己行為帶來的（通常是負面的）結果",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "courage",
+      "responsibility",
+      "daily-conversation",
+      "accountability"
+    ],
+    "analysis": "「Face the music」字面上是「面對音樂」，這個片語的起源有幾個有趣的說法：一說來自劇場——演員上台前可能很緊張，但幕一拉開、樂隊開始演奏，你就必須上台面對觀眾與音樂，無處可躲；另一說來自軍中——士兵被軍法審判後要被逐出軍隊時，軍樂隊會奏樂「送行」，那個士兵就必須「面對音樂」接受後果。無論哪個起源，現代用法都是：你做了某件事（通常是搞砸了或逃避了很久的事），現在該來的終於來了，你得硬著頭皮去面對。例如考試前一晚才發現根本沒準備好——隔天早上你就是去 face the music；拖了三個月沒回客戶郵件，現在對方打電話來抱怨——你也得 face the music。對台灣學生來說，這個片語超實用，因為我們從小到大都有這種「完蛋了要面對現實了」的時刻。和之前教過的「bite the bullet」相比：bite the bullet 強調「咬牙去做一件痛苦但必要的事」，face the music 則強調「面對自己行為帶來的後果」，兩者情境不同但都很實用。教學上建議先用舞台或軍樂的故事引發好奇，再引導學生造句分享自己 face the music 的經驗——這類自我揭露式的練習通常能引發很多共鳴與笑聲。",
+    "examples": [
+      "I skipped class for two weeks and now I have to face the music with my professor tomorrow.",
+      "You can't avoid the conversation forever — sooner or later, you have to face the music.",
+      "After months of ignoring my credit card bills, I finally faced the music and called the bank."
+    ]
   }
 ]
