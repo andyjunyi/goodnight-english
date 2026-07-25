@@ -1135,5 +1135,25 @@
       "A: \"Are you okay? You look tired.\" B: \"Yeah, I'm good — just a long day.\"",
       "A: \"Do you need help carrying those bags?\" B: \"I'm good, I got it.\""
     ]
+  },
+  {
+    "id": 59,
+    "date": "2026-07-25",
+    "phrase": "Go off",
+    "meaning": "「說得好！繼續火力全開！」——熱情鼓勵對方繼續精彩發言，或形容某人滔滔不絕、火力全開地表達觀點",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "conversation",
+      "encouragement",
+      "social-media",
+      "Gen-Z"
+    ],
+    "analysis": "「Go off」字面上是「離開／爆炸／響起來」，但在2025-2026年美國年輕人口語中，它已演變為一個充滿能量的雙重用法。第一種是「鼓勵用法」——當朋友正在滔滔不絕地吐槽、論述或真情告白，而且講得超有道理的時候，你大喊一聲「Go off!」就等於在說「繼續說！你說得太對了！火力全開！」第二種是「描述用法」——當某人針對某個話題長篇大論、情緒飽滿地表達意見時，你可以說「She went off about the new policy」——意思是她對新政策火力全開地批評了一番。這個短語的精妙在於它把原本可能負面的「情緒化發言」轉化為一種值得讚賞的「真性情表達」——在一個講究 authenticity（真實性）的時代，敢說、會說、說得精彩就是一種值得 Go off 的優點。對台灣學生來說，這個短語超級實用：當朋友用英文抱怨學校或分享觀點時，你可以用一句「Go off!」展現你認真聽又超認同，比「I agree」或「Well said」更有態度也更有畫面感。但要注意：go off 在傳統英文中有很多意思（炸彈爆炸、鬧鐘響起、食物變質），教學時建議先幫學生區分這些義項，再聚焦口語用法——一次學一個情境，才不會搞混。課堂活動可以讓學生分組，一人針對一個主題（例如「學校應該取消制服」）發表意見，其他人用「Go off!」適時鼓勵——既能練口說又能感受這個短語的互動能量，非常好玩。",
+    "examples": [
+      "She went off about how unfair the grading system is — and honestly, she made some great points.",
+      "A: \"And another thing — why do we have to pay for printing when tuition is already so expensive?!\" B: \"Go off! I've been saying this for years!\"",
+      "I didn't expect him to go off like that in the meeting, but he was right about everything."
+    ]
   }
 ]
