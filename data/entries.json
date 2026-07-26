@@ -1155,5 +1155,25 @@
       "A: \"And another thing — why do we have to pay for printing when tuition is already so expensive?!\" B: \"Go off! I've been saying this for years!\"",
       "I didn't expect him to go off like that in the meeting, but he was right about everything."
     ]
+  },
+  {
+    "id": 60,
+    "date": "2026-07-26",
+    "phrase": "give someone the benefit of the doubt",
+    "meaning": "選擇先相信對方、不妄下判斷——在證據不足時，寧可相信對方的好意而非惡意",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "communication",
+      "trust",
+      "relationships",
+      "fairness"
+    ],
+    "analysis": "「Give someone the benefit of the doubt」字面上是「把懷疑的好處給某人」，這個概念源自法律術語——在刑事審判中，當證據不足以證明被告有罪時，陪審團應做出有利於被告的判決（benefit of the doubt）。現代日常用法已完全生活化：當朋友遲到、同事沒回訊息、或是有人做了一件讓你不太爽的事，但你沒有確鑿證據證明對方是故意的——這時候你選擇 give them the benefit of the doubt，就是選擇「先相信對方不是故意的」。這個片語非常適合台灣學生學習，因為它不只是一個語言工具，更是一種溝通智慧——在人際關係中，與其每次都直接認定對方有惡意，不如先給對方一個解釋的機會。教學上建議先從法庭情境建立核心概念，再用生活化的誤會情境做角色扮演：一方抱怨，另一方用 give someone the benefit of the doubt 來緩和氣氛。文法上用 give + 人 + the benefit of the doubt，也可以說 get/receive the benefit of the doubt（被別人給予信任）。",
+    "examples": [
+      "I know he was late again, but let's give him the benefit of the doubt — maybe traffic was really bad.",
+      "She said she didn't see my message, and I'm going to give her the benefit of the doubt this time.",
+      "When you're in a relationship, sometimes you have to give your partner the benefit of the doubt instead of assuming the worst."
+    ]
   }
 ]
