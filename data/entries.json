@@ -1175,5 +1175,25 @@
       "She said she didn't see my message, and I'm going to give her the benefit of the doubt this time.",
       "When you're in a relationship, sometimes you have to give your partner the benefit of the doubt instead of assuming the worst."
     ]
+  },
+  {
+    "id": 61,
+    "date": "2026-07-27",
+    "phrase": "That tracks",
+    "meaning": "合理、不意外——表示某件事完全符合預期、前後一致，完全可以理解",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "agreement",
+      "Gen-Z",
+      "logic"
+    ],
+    "analysis": "「That tracks」字面上是「那追得上／對得上」，源自追蹤（tracking）的概念——當資訊或事件彼此「對得上」、前後一致時，就表示合情合理、毫不意外。這個短語在2025-2026年美國年輕人口語中極度流行，功能類似「That makes sense」，但更口語、更乾脆、更有態度。例如同事說某個老是遲到的人今天又沒出現，你回一句「That tracks」——意思就是「不意外，很符合他的人設」。朋友分析完某部電影為什麼票房不好，你覺得有道理，也可以說「That tracks」表達認同。對台灣學生來說，這個短語只有兩個單字、文法簡單，卻能取代一長串解釋。教學上可從實體追蹤（GPS tracking、包裹追蹤）導入字面義，再過渡到比喻用法，用快問快答練習——老師說情境，學生判斷是否「That tracks」，既有趣又能內化這個道地表達。",
+    "examples": [
+      "A: \"Jake said he'd be here at 7, but he's always 30 minutes late.\" B: \"Yeah, that tracks.\"",
+      "She's been posting about Japan nonstop for months and just booked a trip there. That tracks.",
+      "You told me the group project fell apart because nobody communicated? That tracks — classic group project experience."
+    ]
   }
 ]
