@@ -1215,5 +1215,25 @@
       "She got the ick when he showed up in flip-flops to a nice restaurant.",
       "I cannot explain it — he chews with his mouth open and it just gives me the ick."
     ]
+  },
+  {
+    "id": 63,
+    "date": "2026-07-29",
+    "phrase": "the ball is in your court",
+    "meaning": "「球在你手上」——接下來看你怎麼做，輪到你做決定或採取行動了",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "workplace",
+      "decision-making",
+      "daily-conversation",
+      "sports"
+    ],
+    "analysis": "「The ball is in your court」字面上是「球在你的球場」，源自網球運動——當球被打到你這半場，接下來就輪到你回擊，對方只能等你行動。現代用法已完全生活化：面試完等通知、傳訊息等回覆、提案後等客戶決定，都可以說這句話。意思是「我這部分做完了，接下來換你」，語氣中性不帶催促壓力。對台灣學生來說，對應中文的「接下來就看你的了」，學會後就能在 email 結尾、會議討論或日常對話中自然使用。教學上可從網球意象切入建立畫面感，再用職場和生活情境讓學生練習。常用句型：The ball is in your court now. / I've done my part — the ball is in your court.",
+    "examples": [
+      "I've sent you the proposal — the ball is in your court now.",
+      "We've given him all the information he needs. The ball is in his court.",
+      "I told her how I feel. The ball is in her court now — I'm just waiting for a response."
+    ]
   }
 ]
