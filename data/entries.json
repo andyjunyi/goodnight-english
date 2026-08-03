@@ -1315,5 +1315,25 @@
       "Everyone was doubting her project at first, but she said 'let me cook' — and now it's the company's best-selling product.",
       "I know the presentation looks messy right now, but let her cook. She always pulls it together in the end."
     ]
+  },
+  {
+    "id": 68,
+    "date": "2026-08-03",
+    "phrase": "Suit yourself",
+    "meaning": "「隨便你、你高興就好」——讓對方自己做決定，不勉強、不干預",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "independence",
+      "boundaries",
+      "casual"
+    ],
+    "analysis": "「Suit yourself」字面上是「穿你適合的衣服」或「配合你自己」，但真正的日常用法是「隨便你」、「你高興就好」——當對方做出一個你不太同意、但也懶得繼續勸的決定時，用這句話畫下句點。它的語氣非常微妙：可以是友善的放手（朋友決定不吃甜點，你笑著說 Suit yourself），也可以帶點被拒絕後的微酸（你好心給建議但對方不領情，淡淡回一句 Suit yourself）。對台灣學生來說，這個短語超級實用——中文裡我們常說「隨便你」、「你開心就好」，英文裡 suit yourself 就是那個味道，三個單字、好記又好用。但要注意語氣拿捏：微笑著說和翻白眼說，效果天差地遠。跟長輩或上司使用時要格外小心，建議只在平輩或朋友間使用，才不會誤踩禮貌地雷。教學上可以先示範兩種語氣（友善 vs 冷淡）讓學生感受差異，再配對練習情境對話。另外可以補充另一個類似表達「Have it your way」（就照你的方式吧），語氣更接近「好吧你贏了」，兩者可以對比教學，讓學生學會在「尊重對方選擇」與「表達自己立場」之間靈活切換。",
+    "examples": [
+      "A: \"I think I'll stay home tonight.\" B: \"Suit yourself — I'm still going out.\"",
+      "If you don't want my advice, suit yourself. But don't say I didn't warn you.",
+      "I offered to help, but he said no. Suit yourself, I guess."
+    ]
   }
 ]
