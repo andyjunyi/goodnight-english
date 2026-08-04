@@ -1335,5 +1335,25 @@
       "If you don't want my advice, suit yourself. But don't say I didn't warn you.",
       "I offered to help, but he said no. Suit yourself, I guess."
     ]
+  },
+  {
+    "id": 69,
+    "date": "2026-08-04",
+    "phrase": "break the ice",
+    "meaning": "打破沉默、化解尷尬——在陌生或緊張的社交場合中率先開口或做些什麼來讓氣氛輕鬆起來",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "social-skills",
+      "daily-conversation",
+      "icebreaker",
+      "communication"
+    ],
+    "analysis": "「Break the ice」字面上是「打破冰塊」，這個畫面感十足的片語源自船運時代——冬天河面結冰時小船無法通行，必須派出「破冰船」把冰層撞開，為後面的船隻開闢航道。現代用法完美繼承了這個意象：在陌生、尷尬或沉默的社交場合中，第一個開口說話、說個笑話或做出善意舉動的人，就是在「破冰」——為後續的交流開闢一條順暢的航道。例如新班級的第一堂課、公司迎新聚會、或是第一次跟網友見面，誰先說出了第一句話或開了第一個玩笑，誰就是在 break the ice。對台灣學生來說，這個片語超級實用——華人文化中我們在陌生場合常比較含蓄內斂，但學會 break the ice 不只讓你聽懂母語者的對話，也提醒我們：有時候主動跨出第一步，整個氣氛就不一樣了。文法上常用 break the ice 或 break the ice with someone（跟某人破冰），名詞形式是 icebreaker（破冰活動／破冰話題）——這個字在美國學校或職場培訓中極度常見。教學上建議先用破冰船的影片或圖片建立畫面感，再帶到人際互動情境，最後可以讓學生分組討論「你最喜歡的 icebreaker 問題是什麼？」既是語言練習，也真的在幫大家破冰！",
+    "examples": [
+      "Nobody was talking at the party until Sarah told a funny story and broke the ice.",
+      "To break the ice with my new classmates, I just asked them what music they're into.",
+      "The team building activity was a great icebreaker — by the end, everyone was laughing and chatting."
+    ]
   }
 ]
