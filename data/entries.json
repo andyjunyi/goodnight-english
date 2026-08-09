@@ -1436,5 +1436,25 @@
       "She is the best candidate for the job, periodt.",
       "I am not going to that party and that is final -- periodt."
     ]
+  },
+  {
+    "id": 74,
+    "date": "2026-08-09",
+    "phrase": "call the shots",
+    "meaning": "作主、發號施令——擁有最終決定權，說了算",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "workplace",
+      "leadership",
+      "daily-conversation",
+      "decision-making"
+    ],
+    "analysis": "「Call the shots」字面上是「喊出射擊指令」，源自軍事或狩獵場景——指揮官或領隊決定何時開槍、朝哪開槍。現代日常用法已完全脫離軍事色彩，變成一個超級實用的職場與生活片語，意思是「作主、發號施令、有最終決定權」。想像一下：專案會議上，大家都在討論行銷策略，但最後拍板定案的那個人，就是在 calling the shots。或者家庭聚餐要訂哪間餐廳，媽媽說「吃火鍋」，爸爸轉頭小聲對你說「你媽 calls the shots」——就是這種日常感。對台灣學生來說，這個片語非常好記——shot 是「射擊」，call 是「喊」，喊出射擊指令的人就是老大。文法上常用 call the shots，也可以說 the one calling the shots（做主的那個人）。否定型也超實用：I don't call the shots around here（這裡不是我說了算）——這句話在職場上可以謙虛地表達「我只是執行者，決策權在上面」。教學上建議先用軍事畫面建立直覺，再用生活化例句讓學生感受從「戰場指揮官」到「家裡老媽」的幽默跨度，最後讓學生自己造句描述生活中誰在 call the shots，保證全班搶著發言！",
+    "examples": [
+      "If you want to be the one calling the shots, you need to bring more experience to the table.",
+      "My dad still thinks he calls the shots, but we all know mom is really in charge.",
+      "You're the team lead now — you get to call the shots on this project."
+    ]
   }
 ]
