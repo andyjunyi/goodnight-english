@@ -1475,5 +1475,25 @@
       "My bad, I forgot to save your number. Can you text me again?",
       "A: You stepped on my shoe! B: My bad! Didn't see you there."
     ]
+  },
+  {
+    "id": 76,
+    "date": "2026-08-11",
+    "phrase": "Hot take",
+    "meaning": "大膽觀點、敢言評論——對某個熱門話題提出的個人、可能具爭議性的尖銳看法",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "opinion",
+      "social-media",
+      "debate",
+      "conversation"
+    ],
+    "analysis": "「Hot take」字面上是「熱騰騰的看法」，源自新聞評論與社群媒體文化——當某人針對一個熱門話題（電影、政治、運動等）提出一個尖銳、個人化、甚至故意引戰的觀點時，就是在發表 hot take。這個詞在2024-2026年透過Twitter/X、TikTok、YouTube評論文化爆紅，常用來當開場白：「Hot take: pineapple belongs on pizza.」——一句話立刻引發大戰。對台灣學生來說，hot take 是個超實用的社交工具：在小組討論、課堂辯論、甚至在 IG 限動發表看法時，加上一句「Hot take」就能讓你的發言更有態度、更有「我不是在陳述事實，這是我的主觀看法」的自我認知。它和「opinion」的差別在於：opinion 是中性的，hot take 強調「新鮮出爐、直白敢言、不怕爭議」。教學上建議用熱門話題（例如：哪種台灣小吃最過譽？）讓學生練習用「Hot take: ...」開頭造句，既能練口說又能學到道地的網路文化用語。另外要注意的是，hot take 不代表深思熟慮——很多 hot takes 是故意誇張來引發討論——所以在正式學術寫作中不要用，但日常對話和社群媒體上，它就是表達個性的最佳工具。",
+    "examples": [
+      "Hot take: bubble tea is overrated and fruit tea is way better.",
+      "My hot take is that we should have four-day workweeks — people would be way more productive.",
+      "She always has the spiciest hot takes on movies. I don't always agree, but I love reading them."
+    ]
   }
 ]
