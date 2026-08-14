@@ -1535,5 +1535,25 @@
       "She's been a stan of this band since middle school.",
       "I don't just like this show, I stan it."
     ]
+  },
+  {
+    "id": 79,
+    "date": "2026-08-14",
+    "phrase": "It's on me",
+    "meaning": "這頓算我的、我請客 — 主動表示要為對方付錢",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "money",
+      "generosity",
+      "friendship"
+    ],
+    "analysis": "「It's on me」字面意思是「這件事算在我頭上」，在美式日常對話中就是「我請客、這頓我來付」。當你主動想幫朋友買單——無論是搶帳單、請喝飲料還是代墊小錢——一句乾淨俐落的 It's on me 比 I'll pay for you 自然得多。注意別跟 on the house（店家免費招待）搞混：on the house 是店家請客，it's on me 是個人掏腰包。對台灣學生來說特別實用——台灣聚餐搶付帳的文化，跟美國人各自 split the bill 剛好形成有趣對比，學會這句就能在留學、旅遊或跟外國朋友聚餐時帥氣買單。文法很簡單：介系詞 on 加受詞，也可以說 It's on us（我們請）。教學時可讓學生分組演練搶帳單情境，配上輕鬆笑容，立刻自然產出。",
+    "examples": [
+      "Put your wallet away, it's on me tonight.",
+      "Don't worry about the bill, it's on me.",
+      "A: \"Let me get this.\" B: \"No way, it's on me, you paid last time.\""
+    ]
   }
 ]
