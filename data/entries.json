@@ -1555,5 +1555,24 @@
       "Don't worry about the bill, it's on me.",
       "A: \"Let me get this.\" B: \"No way, it's on me, you paid last time.\""
     ]
+  },
+  {
+    "id": 80,
+    "date": "2026-08-15",
+    "phrase": "once in a blue moon",
+    "meaning": "難得、千載難逢、久久才一次 — 形容極少發生的事",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "conversation",
+      "frequency",
+      "daily-conversation"
+    ],
+    "analysis": "「Once in a blue moon」字面上是「在藍月亮出現時」，光聽就很有畫面感。但藍月亮其實不是真的藍色的月亮，而是指「同一個月裡出現的第二次滿月」——平均兩三年才發生一次，非常罕見，所以英文借這個天文現象來形容「極少發生、難得一次」的事。對台灣學生來說，它就像中文的「千載難逢」或「久久才一次」，但語氣沒那麼誇張，日常聊天就能自然用上。想表達「我幾乎不吃宵夜，但久久一次會放縱一下」，可以說 I rarely eat late-night snacks, but once in a blue moon I'll treat myself。教學時建議先秀一張藍月亮照片引起好奇，再帶入例句，最後讓學生用這句聊聊自己「once in a blue moon」才會做的事——像是熬夜、吃大餐、發文——保證很快就記住。它常放在句中或句尾，意思跟 rarely、hardly ever 相近，但更生動、更有畫面感，是讓口說立刻升級的好幫手。",
+    "examples": [
+      "I rarely eat fast food, but once in a blue moon I'll grab a burger and fries.",
+      "We live in different cities now, so we only see each other once in a blue moon.",
+      "My dad is not really into social media — he posts once in a blue moon."
+    ]
   }
 ]
