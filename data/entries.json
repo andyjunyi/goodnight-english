@@ -1594,5 +1594,24 @@
       "He's been locked in at the gym for months, and the results are crazy.",
       "Once I put my phone away, I'm fully locked in."
     ]
+  },
+  {
+    "id": 82,
+    "date": "2026-08-17",
+    "phrase": "I'm good",
+    "meaning": "不用了、沒關係——美式口語中用來婉拒或表示自己沒問題的萬用短句",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "polite-refusal",
+      "small-talk"
+    ],
+    "analysis": "「I'm good」字面是「我很好」，但在美式日常對話裡，它真正的威力是拿來「婉拒」。當別人問你要不要再來一片披薩、要不要續杯、要不要幫忙，與其說太正式的 No, thank you 或太直接的 I don't want it，美國人會輕描淡寫一句 I'm good——「不用了，我夠了，謝謝」。這是個文化密碼：台灣學生常把「拒絕」講得太硬，但母語者用 I'm good 既禮貌又自然，完全沒有拒絕別人的壓力。當然它也能回答 Are you okay?（我沒事）或 Need more rice?（我夠了）。教學上建議先讓學生觀察三種情境——婉拒食物、婉拒幫忙、報平安——再對比 No thanks 和 I'm good 的語氣差異：前者制式，後者隨性、更像朋友聊天。小提醒：正式場合對長輩或老闆，補一句 thanks 更得體，例如 I'm good, thanks!",
+    "examples": [
+      "A: \"Want another slice of pizza?\" B: \"No thanks, I'm good.\"",
+      "A: \"Are you okay? You look tired.\" B: \"I'm good, I just didn't sleep much last night.\"",
+      "A: \"Do you need help carrying those boxes?\" B: \"I'm good, thanks!\""
+    ]
   }
 ]
