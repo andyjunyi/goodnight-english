@@ -1633,5 +1633,25 @@
       "We need to hire someone who can hit the ground running — there is no time for training.",
       "The new semester starts next week, and I plan to hit the ground running."
     ]
+  },
+  {
+    "id": 84,
+    "date": "2026-08-19",
+    "phrase": "Spill the tea",
+    "meaning": "快說、別賣關子 — 把你知道的八卦或內幕消息講出來",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "gossip",
+      "conversation",
+      "social-media",
+      "Gen-Z"
+    ],
+    "analysis": "「Spill the tea」裡的 tea 不是「茶」，而是指「八卦、內幕消息」。這個說法源自非裔美國人社群與變裝文化——tea 據說是由「T」（truth，真相）演變而來，後來透過《RuPaul's Drag Race》和社群媒體爆紅，成了年輕人口中「爆料、說八卦」的代名詞。當你想催朋友快把勁爆消息講出來、別再賣關子時，就說「Spill the tea!」。對台灣學生來說超實用，因為下課聊八卦、朋友分享祕密的情境天天上演。教學上可以對比相似片語「spill the beans」（不小心說溜嘴）——tea 偏「主動分享八卦」，beans 偏「洩漏祕密」，語氣不同。另外「What's the tea?」就是「最近有什麼八卦？」，是很自然的開話題問句。",
+    "examples": [
+      "Okay, spill the tea — what happened at the party last night?",
+      "I need the tea. Did they really break up?",
+      "Girl, you can't drop that hint and not spill the tea!"
+    ]
   }
 ]
