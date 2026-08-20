@@ -1653,5 +1653,24 @@
       "I need the tea. Did they really break up?",
       "Girl, you can't drop that hint and not spill the tea!"
     ]
+  },
+  {
+    "id": 85,
+    "date": "2026-08-20",
+    "phrase": "My bad",
+    "meaning": "我的錯、抱歉啦 — 輕鬆承認自己犯了小錯誤的口語",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "apology",
+      "casual"
+    ],
+    "analysis": "「My bad」字面上把形容詞 bad 拿來當名詞用，直譯是「我的錯」。它文法上其實不標準——正式說法應該是 my mistake 或 my fault——但正是這種「不標準」讓它成為美式日常口語中最自然、最常聽到的道歉之一。它專用於「小錯誤」：踩到別人的腳、記錯時間、傳錯訊息、不小心打翻飲料，一句輕快的 My bad 就能化解尷尬。跟 I'm sorry 相比，My bad 語氣輕鬆隨性、沒有沉重感，朋友或平輩同事之間特別好用；但真闖了大禍、或對長輩上司道歉，還是得說 I'm sorry 才得體。對台灣學生來說，這個詞只有兩個字、情境天天發生，超好上手。教學上可以先讓學生分辨 My bad（小事、隨性）與 I'm sorry（鄭重、正式）的差異，再用情境卡讓學生判斷該用哪個，保證一下就記住。",
+    "examples": [
+      "My bad — I totally forgot we had a meeting today.",
+      "Oh, my bad! I didn't see you standing there.",
+      "My bad, I sent that message to the wrong group chat."
+    ]
   }
 ]
