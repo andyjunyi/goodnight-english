@@ -1672,5 +1672,25 @@
       "Oh, my bad! I didn't see you standing there.",
       "My bad, I sent that message to the wrong group chat."
     ]
+  },
+  {
+    "id": 86,
+    "date": "2026-08-21",
+    "phrase": "Clutch",
+    "meaning": "關鍵時刻超給力、神救援 — 形容在緊要關頭可靠、挺身而出解決問題",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "conversation",
+      "sports",
+      "gaming",
+      "compliment"
+    ],
+    "analysis": "「Clutch」原本是手排車的「離合器」，也指籃球比賽讀秒階段的「關鍵時刻」。但在美國年輕人口語裡，它已經變成超實用的形容詞，意思是「關鍵時刻超可靠、神救援、給力」。比如朋友在你餓到不行時遞來一塊雞排，你就可以說 \"That's so clutch!\"（太給力了！），就像選手在壓哨時刻投進致勝球那種救場感。它的用法很靈活：可以當形容詞（so clutch）、搭配動詞（come in clutch 關鍵時刻挺身而出）、也能說 clutch moment（關鍵時刻）。台灣學生最熟悉的情境，大概是熬夜趕報告時同學借你充電器、聚餐快遲到時有人幫你留位——這些都是 clutch！教學上可以先從 NBA 壓哨球的畫面建立語感，再讓學生分享自己生活中的 clutch 時刻，很快就能脫口而出。注意這是口語用法，正式寫作仍建議用 reliable。",
+    "examples": [
+      "That extra charger you brought saved me — you're so clutch.",
+      "He came in clutch with the winning shot in the last second.",
+      "Bringing an umbrella today was so clutch; it started pouring right after class."
+    ]
   }
 ]
