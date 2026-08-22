@@ -1692,5 +1692,25 @@
       "He came in clutch with the winning shot in the last second.",
       "Bringing an umbrella today was so clutch; it started pouring right after class."
     ]
+  },
+  {
+    "id": 87,
+    "date": "2026-08-22",
+    "phrase": "play it by ear",
+    "meaning": "見機行事、隨機應變 — 不事先訂死計畫，走一步看一步、看情況再決定",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "conversation",
+      "flexibility",
+      "daily-conversation",
+      "planning"
+    ],
+    "analysis": "「Play it by ear」字面上是「用耳朵來彈奏」，這個說法來自音樂家不看樂譜、靠耳朵即興演奏的畫面。現代口語中，它的意思是「見機行事、隨機應變」——不先訂死計畫，走一步看一步，等情況明朗了再做決定。對台灣學生來說超好代入：朋友約你週末出去玩但天氣不穩，你可以說 Let's play it by ear——「我們看天氣再說」。它跟中文的「船到橋頭自然直」有點像，但更主動、更口語。教學上可以先從音樂家即興的畫面切入，再對比 planning everything ahead（事事規劃）的差異，讓學生感受兩種生活態度的英文表達。用法上常接 it：play it by ear，也可以直接說 I'll just play it by ear（我就見機行事）。",
+    "examples": [
+      "I'm not sure what time I'll finish work, so let's just play it by ear.",
+      "The weather looks unpredictable this weekend — let's play it by ear and decide on Saturday morning.",
+      "A: \"Do we need to book a table?\" B: \"Nah, let's play it by ear — we'll see how busy it is.\""
+    ]
   }
 ]
