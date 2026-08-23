@@ -1712,5 +1712,25 @@
       "The weather looks unpredictable this weekend — let's play it by ear and decide on Saturday morning.",
       "A: \"Do we need to book a table?\" B: \"Nah, let's play it by ear — we'll see how busy it is.\""
     ]
+  },
+  {
+    "id": 88,
+    "date": "2026-08-23",
+    "phrase": "I owe you one",
+    "meaning": "我欠你一個人情 — 感謝對方幫忙，並表示日後會回報",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "gratitude",
+      "friendship",
+      "favors"
+    ],
+    "analysis": "「I owe you one」字面直譯是「我欠你一次」，真正的意思是「我欠你一個人情」。當朋友幫了你一個忙——借你筆記、順路載你、幫你 cover 班——回一句 I owe you one，既表達感謝，也暗示「這份情我會記著，之後一定回報」。跟單純的 Thank you 相比，它多了一層人與人互動的溫度，是美國人朋友和同事之間超愛用的口語。要強調欠得很大，可以說 I owe you big time（欠你超大）。對台灣學生來說這句幾乎零門檻：同學借你講義、室友幫你收包裹、同事幫你代班，天天都在上演。教學上可以先對比 Thank you 與 I owe you one 的語氣差異，前者是禮貌道謝、後者是帶著人情味的道謝，再用情境卡讓學生練習，很快就能自然脫口而出。",
+    "examples": [
+      "Thanks for covering my shift this weekend. I owe you one.",
+      "You lent me your notes before the exam? I owe you one, big time.",
+      "I owe you one for driving me to the airport at 5 a.m."
+    ]
   }
 ]
