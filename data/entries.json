@@ -1812,5 +1812,25 @@
       "She lost all her aura points the moment she tripped on stage.",
       "That comeback was weak. Negative aura, bro."
     ]
+  },
+  {
+    "id": 93,
+    "date": "2026-08-28",
+    "phrase": "the ball is in your court",
+    "meaning": "輪到你做主了、接下來看你的 — 決定權或下一步行動交到你手上",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "workplace",
+      "daily-conversation",
+      "communication",
+      "sports"
+    ],
+    "analysis": "「The ball is in your court」字面上是「球在你的球場」，這個說法來自網球比賽——球打到你這一邊，接下來就輪到你回擊了。用在日常和職場，意思就是「決定權交給你、下一步看你的」：老闆開出條件後補一句 the ball is in your court，等於在說「換你表態了」。台灣學生超好代入：你跟朋友約看電影，丟了三個時間過去，就是 the ball is in his court——等他選。它跟 it's your turn（輪到你了）很像，但更強調「決定權」而不只是「輪流順序」。教學上先從網球揮拍的畫面切入，再對比 it's your turn 的細微差異，學生很快就能用在真實對話裡。",
+    "examples": [
+      "I've given you all the details, so now the ball is in your court.",
+      "We made our offer, so the ball is in their court now.",
+      "I texted her my schedule, so the ball is in her court."
+    ]
   }
 ]
