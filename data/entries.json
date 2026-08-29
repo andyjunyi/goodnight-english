@@ -1832,5 +1832,25 @@
       "We made our offer, so the ball is in their court now.",
       "I texted her my schedule, so the ball is in her court."
     ]
+  },
+  {
+    "id": 94,
+    "date": "2026-08-29",
+    "phrase": "I'll keep you posted",
+    "meaning": "有最新進展再跟你說、我會持續跟你更新消息",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "workplace",
+      "communication",
+      "follow-up"
+    ],
+    "analysis": "「I'll keep you posted」字面是「我會讓你保持在『被更新』的狀態」，說穿了就是「有最新進展我再跟你說」。keep + 某人 + posted 是固定搭配，posted 是過去分詞當形容詞，形容一個人「隨時掌握最新消息」。美國年輕人在分組報告、打工、約行程時超愛用——事情還沒定案、還在等回覆時，一句 I'll keep you posted 既讓對方安心，又不會把話說死。對台灣學生來說這句超實用：我們常卡在「想說『有消息再通知你』卻不知英文怎麼講」，硬翻 I'll tell you later 又少了「我會主動跟進」的專業感。教學上可對比 I'll let you know——keep you posted 更強調「持續更新、不只講一次」。文法小提醒：主詞放前面（I'll keep you posted），受詞換成 me 就是「有消息記得跟我說」（Keep me posted），超好套用。",
+    "examples": [
+      "I'll keep you posted as soon as I hear back from the company.",
+      "The plans aren't final yet, but don't worry, I'll keep you posted.",
+      "Keep me posted on the meeting time, I don't want to be late."
+    ]
   }
 ]
