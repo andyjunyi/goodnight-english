@@ -1852,5 +1852,25 @@
       "The plans aren't final yet, but don't worry, I'll keep you posted.",
       "Keep me posted on the meeting time, I don't want to be late."
     ]
+  },
+  {
+    "id": 95,
+    "date": "2026-08-30",
+    "phrase": "I'm cooked",
+    "meaning": "我完了、我死定了 — 遇到大麻煩或事情搞砸了時的自嘲",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "Gen-Z",
+      "internet",
+      "social-media",
+      "daily-conversation"
+    ],
+    "analysis": "「I'm cooked」字面是「我被煮熟了」，但在 Gen Z 口語裡，意思是「我完了、我死定了、我遇到大麻煩了」——通常帶點自嘲和無奈，用來形容事情已經到了難以收拾的地步。這個用法從 2024 年在 TikTok、X 上爆紅，現在美國年輕人幾乎天天掛在嘴邊。台灣學生超好代入：明天要交 20 頁報告卻還沒動筆、考試前才發現範圍大得嚇人、手機不小心掉進水裡——這些時候一句 I'm cooked 比 I'm in trouble 更有畫面、也更自然。它也常跟 we 連用（We're so cooked），或直接說 It's cooked（完了、沒救了）。教學上可以先對比 I'm doomed / I'm in trouble，讓學生感受 cooked 那種「輕鬆自嘲、不是真的絕望」的語氣差別——這點很關鍵，因為它其實很口語、很幽默，不是沉重的絕望宣告。",
+    "examples": [
+      "I have a twenty-page paper due tomorrow and I haven't started. I'm cooked.",
+      "The exam is in an hour and I already forgot half the vocab. We're so cooked.",
+      "I just realized the deadline was yesterday. It's cooked."
+    ]
   }
 ]
