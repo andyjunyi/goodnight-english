@@ -1872,5 +1872,25 @@
       "The exam is in an hour and I already forgot half the vocab. We're so cooked.",
       "I just realized the deadline was yesterday. It's cooked."
     ]
+  },
+  {
+    "id": 96,
+    "date": "2026-08-31",
+    "phrase": "the elephant in the room",
+    "meaning": "明明大家都心知肚明、卻刻意避而不談的敏感話題或明顯問題",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "conversation",
+      "workplace",
+      "social-skills",
+      "communication"
+    ],
+    "analysis": "「The elephant in the room」字面上是「房間裡的大象」，指的是人人都看得見、心裡都明白，卻刻意避而不談的敏感話題或明顯問題。畫面感很強：會議室裡明明坐著一頭大象，大家卻假裝沒看到。這個片語源自十九世紀的寓言故事，後來成為英語世界形容「集體裝傻」的經典說法。台灣學生超好代入：朋友剛分手，聊天時大家心照不宣地繞開話題；或全家聚餐，爺爺健康出狀況卻沒人敢提——這些都是 elephant in the room。教學上可先秀出「房間裡的大象」的畫面，讓學生用中文列舉生活中「大家裝沒看見」的時刻，再自然帶入例句。常用搭配有 address the elephant in the room（把事情講開）和 ignore the elephant in the room（繼續裝傻），職場、友情、家庭溝通都超實用。",
+    "examples": [
+      "We all know the company is losing money, but nobody wants to talk about it. It's the elephant in the room.",
+      "After their fight, there was an elephant in the room every time the two friends met.",
+      "Let's address the elephant in the room: our project is behind schedule."
+    ]
   }
 ]
