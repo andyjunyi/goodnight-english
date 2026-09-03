@@ -1932,5 +1932,24 @@
       "Did you see how she handled that awkward moment? Pure rizz.",
       "My friend tried to rizz up the barista, but it totally backfired."
     ]
+  },
+  {
+    "id": 99,
+    "date": "2026-09-03",
+    "phrase": "beat around the bush",
+    "meaning": "說話拐彎抹角、不直接切入重點 — 繞來繞去、遲遲不談正題",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "communication",
+      "conversation",
+      "social-skills"
+    ],
+    "analysis": "「Beat around the bush」字面上是「在灌木叢外敲敲打打」，這個畫面源自打獵——獵人怕驚動躲在灌木叢裡的獵物，不敢直接走進去，只好在外圍繞來繞去。引申到口語裡，就是「說話拐彎抹角、不直接講重點」。美國人常用來提醒或小抱怨對方扯了半天還不講來意，例如 Don't beat around the bush, just tell me what happened.（別繞圈子了，直接說發生什麼事。）台灣學生對這句超有感，因為我們的文化常偏向含蓄委婉，跟朋友、同事溝通時很容易不自覺地 beat around the bush。教學上可先讓學生想想中文對應的說法（賣關子、繞圈子），再對比 get to the point（直說重點）和 be direct，最後用「老闆講半天卻遲遲不宣布壞消息」的情境做對話練習。記住它是口語，正式場合想說「閃躲問題」可用 be evasive。",
+    "examples": [
+      "Stop beating around the bush and just tell me if you're coming to the party.",
+      "He kept beating around the bush, so I finally asked him directly if he was quitting.",
+      "Don't beat around the bush — do you want to go out with me or not?"
+    ]
   }
 ]
