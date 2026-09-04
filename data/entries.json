@@ -1951,5 +1951,25 @@
       "He kept beating around the bush, so I finally asked him directly if he was quitting.",
       "Don't beat around the bush — do you want to go out with me or not?"
     ]
+  },
+  {
+    "id": 100,
+    "date": "2026-09-04",
+    "phrase": "That's on me",
+    "meaning": "是我的錯、算我的——也常用來表示「這頓我請」",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "apology",
+      "responsibility",
+      "generosity"
+    ],
+    "analysis": "「That's on me」是美國日常對話裡超常用的短句，字面意思是「那件事算在我頭上」，實際上有兩個意思：一是「這是我的錯、我來負責」，二是「這頓我請、錢我出」。情境超實用——約會遲到了，你可以說 Sorry I'm late, that's on me（抱歉我遲到，是我的錯）；結帳時想請朋友，一句 That's on me 就帥氣又自然。台灣學生特別好代入，因為中文本來就有「算我的」這種講法，概念幾乎無縫對接。教學上可以先從「認錯負責」的第一個意思切入，再延伸到「請客買單」的第二個意思，讓學生發現同一個短句在不同情境的雙重用法。也可以順便對比 It's my fault（較正式、純認錯）和 My bad（更隨興、更年輕），感受語氣層次。記住它屬於口語，寫作時用 It's my fault / It's my responsibility 會更恰當。",
+    "examples": [
+      "Sorry I'm late — traffic was terrible, but that's on me.",
+      "Don't worry about the bill, that's on me.",
+      "I totally forgot your birthday. That's on me, I'll make it up to you."
+    ]
   }
 ]
