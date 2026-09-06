@@ -1991,5 +1991,25 @@
       "That burger place downtown is amazing — their fries slap.",
       "This song slaps, I've had it on repeat all day."
     ]
+  },
+  {
+    "id": 102,
+    "date": "2026-09-06",
+    "phrase": "bite off more than you can chew",
+    "meaning": "貪多嚼不爛 — 接下超出自己能力範圍的事、不自量力",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "metaphor",
+      "daily-conversation",
+      "advice",
+      "overcommitment"
+    ],
+    "analysis": "「Bite off more than you can chew」字面上是「咬下一口比你能咀嚼還多的食物」，畫面感十足——想像你貪心咬了一大口，結果嘴巴塞滿、根本嚼不動。這個片語的起源，據說跟十九世紀美國人嚼菸草的習慣有關：有人一口塞太多菸草，嚼到嘴巴痠痛、吞不下去，後來就引申為「接下超出能力範圍的事、不自量力」。台灣學生超好代入——修太多學分、同時接三個社團、又打工又準備考試，忙到快爆炸，就可以說 I think I've bitten off more than I can chew. 教學上建議先讓學生從「吃東西」的畫面抓住字面義，再帶入「承諾太多」的引申義，最後請學生用自己忙碌的生活造句，保證超有感。記得這個片語常用完成式或過去式，語氣多半帶點自嘲或善意提醒，不是責備，用起來很自然、不傷人。",
+    "examples": [
+      "I bit off more than I could chew when I took five classes and a part-time job this semester.",
+      "You're biting off more than you can chew if you think you can finish this project in one night.",
+      "Don't bite off more than you can chew — start with one new habit at a time."
+    ]
   }
 ]
