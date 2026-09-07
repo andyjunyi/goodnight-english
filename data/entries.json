@@ -2011,5 +2011,25 @@
       "You're biting off more than you can chew if you think you can finish this project in one night.",
       "Don't bite off more than you can chew — start with one new habit at a time."
     ]
+  },
+  {
+    "id": 103,
+    "date": "2026-09-07",
+    "phrase": "I'll keep you posted",
+    "meaning": "我會隨時跟你回報進度、有消息再跟你說",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "workplace",
+      "communication",
+      "follow-up"
+    ],
+    "analysis": "「I'll keep you posted」是美國日常對話裡超常用的句子，字面意思是「我會繼續貼文給你」，但真正的意思是「我會隨時跟你回報最新進度、有消息再跟你說」。它的由來跟「post」的舊用法有關——以前店家會在門口貼公告（post）告知最新情況，所以「keep someone posted」就是「持續讓某人知道最新動態」。台灣學生超好代入：朋友問你面試結果出來沒，你還沒收到通知，就可以說 Not yet, but I'll keep you posted.（還沒，有消息我會再跟你說。）這句話比 I'll tell you later 更有「我會主動、持續更新」的承諾感，職場和日常都超實用。教學上可以對比 let you know（單純告知）和 keep you posted（持續回報進度），讓學生感受語氣差異。也別忘了它偏口語，寫訊息或聊天時最自然，正式書面可改用 keep you informed。",
+    "examples": [
+      "I haven't heard back from the company yet, but I'll keep you posted.",
+      "The flight is delayed, so I'll keep you posted on any updates.",
+      "We're still finalizing the schedule. I'll keep you posted once it's confirmed."
+    ]
   }
 ]
