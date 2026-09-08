@@ -2031,5 +2031,25 @@
       "The flight is delayed, so I'll keep you posted on any updates.",
       "We're still finalizing the schedule. I'll keep you posted once it's confirmed."
     ]
+  },
+  {
+    "id": 104,
+    "date": "2026-09-08",
+    "phrase": "I'm cooked",
+    "meaning": "我完了／我累癱了 — 不是真的被煮，而是指「死定了」或「累到不行」",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "Gen-Z",
+      "social-media",
+      "internet",
+      "daily-conversation"
+    ],
+    "analysis": "「I'm cooked」字面上是「我被煮熟了」，但在 2025-2026 年美國年輕人口語裡已經變成超萬用的流行語，主要有兩個意思：一是「我完了、我死定了」——事情搞砸、被發現或遇到大麻煩時用；二是「我累癱了、身心俱疲」——累到完全沒電時用。台灣學生超好代入：期末考前才發現完全沒念書，脫口一句 I'm so cooked 超傳神；下班下課後累到癱在椅子上，也能說 I'm completely cooked。它的妙處在於用「被煮熟」的具體畫面表達抽象狀態，一聽就懂。教學上建議先拆字面義，再分別示範「完蛋」與「累癱」兩種情境，讓學生感受語氣差異，並對比 I'm done（我完了／受夠了）、I'm dead（累死／笑死）感受俚語層次。記得它很口語，正式寫作別亂用喔！",
+    "examples": [
+      "I didn't study for the final at all — I'm so cooked.",
+      "After that double shift, I'm completely cooked.",
+      "Bro, if you miss the deadline again, you're cooked."
+    ]
   }
 ]
