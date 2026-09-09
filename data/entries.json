@@ -2051,5 +2051,25 @@
       "After that double shift, I'm completely cooked.",
       "Bro, if you miss the deadline again, you're cooked."
     ]
+  },
+  {
+    "id": 105,
+    "date": "2026-09-09",
+    "phrase": "jump the gun",
+    "meaning": "操之過急、搶先一步 — 在時機還沒成熟時就急著行動或下結論",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "metaphor",
+      "racing",
+      "daily-conversation",
+      "caution"
+    ],
+    "analysis": "「Jump the gun」字面上是「跳過起跑槍」，源自田徑賽跑——選手在裁判鳴槍之前就搶先起跑，也就是「偷跑」。引申到日常生活中，就是指一個人「操之過急、在時機還沒成熟時就急著行動或下結論」。台灣學生超好代入：搶在老師公布答案前就自以為對、還沒等到對方回覆就擅自把約定當成定局、或看到限時特價就手刀下單，這些通通都可以說 Don't jump the gun! 教學上建議先從「鳴槍起跑」的畫面建立字面印象，再帶入「過早行動」的引申義，並對比中文的「搶跑／偷跑」，學生很快就懂。也別忘了常見搭配：jump to conclusions（妄下結論）跟 jump the gun 意思相近，可以一起學，感受 jump 這個字在「過早、搶先」這層語意上的妙用。",
+    "examples": [
+      "Don't jump the gun. Wait until the results are officially announced before you celebrate.",
+      "I think you're jumping the gun by quitting your job before you've even found a new one.",
+      "He jumped the gun and bought the concert tickets before checking if anyone could go."
+    ]
   }
 ]
