@@ -2071,5 +2071,25 @@
       "I think you're jumping the gun by quitting your job before you've even found a new one.",
       "He jumped the gun and bought the concert tickets before checking if anyone could go."
     ]
+  },
+  {
+    "id": 106,
+    "date": "2026-09-10",
+    "phrase": "No hard feelings",
+    "meaning": "別放在心上、我沒有心結 — 表示不因此記恨或不開心",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "apology",
+      "friendship",
+      "forgiveness"
+    ],
+    "analysis": "「No hard feelings」字面上是「沒有不好的感受」，真正的意思是「別放在心上、我不會因此記恨或不開心」——通常用在兩個人有點小摩擦、誤會或競爭之後，用這句話來釋出善意、化解疙瘩。美國人在日常生活中超愛用：朋友間搶了同一張票、同事意見不合、甚至比賽輸了，都可以補一句 No hard feelings 讓關係回到正軌。台灣學生超好代入——我們常說「別放心上啦」「我沒有介意」，英文一句 No hard feelings 就到位。它也常跟道歉一起出現：Sorry I had to cancel last minute — no hard feelings, right?（抱歉我臨時取消，你不會介意吧？）教學上可先讓學生認識 hard feelings（心結、疙瘩）這個名詞，再帶入整句，最後用「尷尲時刻」的情境對話反覆練習。記得它語氣溫暖、適合修復關係，正式場合想表達「沒有任何不愉快」可以用較直述的說法，但口語中這句最自然、最常用。",
+    "examples": [
+      "I know we were competing for the same job, but no hard feelings — you totally deserved it.",
+      "Sorry I snapped at you earlier. No hard feelings?",
+      "We had a disagreement, but there are no hard feelings between us."
+    ]
   }
 ]
