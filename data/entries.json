@@ -2091,5 +2091,25 @@
       "Sorry I snapped at you earlier. No hard feelings?",
       "We had a disagreement, but there are no hard feelings between us."
     ]
+  },
+  {
+    "id": 107,
+    "date": "2026-09-11",
+    "phrase": "Mid",
+    "meaning": "普普通通、不怎麼樣 — 形容某事物很平庸、沒什麼亮點",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "social-media",
+      "opinion",
+      "daily-conversation"
+    ],
+    "analysis": "「Mid」這個字原意是「中間的」（middle 的縮寫），但在 Z 世代和美國年輕人圈子裡，它已經變成一個超好用的評價詞——意思是「普普通通、不怎麼樣、沒啥亮點」，帶一點點失望或嫌棄的味道。台灣學生在課本上學到的是 so-so，但母語者其實很少這樣說，真正道地的講法就是 mid。舉例：同學問你昨天那部電影好不好看，如果你說「It was mid」，對方立刻懂你在說「就那樣、沒到爛但也沒多好」。這個字的使用情境超廣，可以形容電影、餐廳、穿搭、遊戲、甚至一個人，語氣可輕可重。教學上建議先點破 so-so 的「教科書感」，再讓學生用 mid 重新表達，感受口語與課本英文的差距；同時提醒學生，mid 是偏口語的俚語，正式寫作或正式場合還是要用 average、mediocre 這類字才恰當。",
+    "examples": [
+      "That new Marvel movie was mid — I wouldn't watch it again.",
+      "A: How's the ramen place near campus? B: Honestly? It's mid.",
+      "The party was mid, so we left early and got bubble tea instead."
+    ]
   }
 ]
