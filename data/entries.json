@@ -2111,5 +2111,24 @@
       "A: How's the ramen place near campus? B: Honestly? It's mid.",
       "The party was mid, so we left early and got bubble tea instead."
     ]
+  },
+  {
+    "id": 108,
+    "date": "2026-09-12",
+    "phrase": "under the weather",
+    "meaning": "身體不太舒服、有點不舒服或沒精神 — 委婉地表示自己狀況不好",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "health",
+      "daily-conversation",
+      "feelings"
+    ],
+    "analysis": "「Under the weather」字面是「在天氣之下」，跟身體一點關係都沒有，其實它源自航海時代——暈船或生病的水手會被送到甲板下方，避開迎面而來的惡劣天候，也就是躲在「weather bow」之下，後來就引申成「身體不太舒服」。它比直接說 I'm sick 更委婉、更日常，很適合台灣學生：當你只是微恙、精神不濟，又不想把話說得太嚴重時，一句 I'm feeling a bit under the weather 就恰到好處，請假、婉拒邀約都超好用。教學上建議先拆字面義製造反差、加深印象，再帶入航海小故事，最後用「身體微恙想請假」的情境對話反覆練習。要提醒學生：這個片語通常指輕微、暫時的不適，真的發燒或重病還是要講清楚病症，別只用一句帶過喔！",
+    "examples": [
+      "I'm feeling a bit under the weather today, so I think I'll stay home and rest.",
+      "She's been under the weather all week, but she still showed up to class.",
+      "Sorry, I might have to skip the party tonight — I'm a little under the weather."
+    ]
   }
 ]
