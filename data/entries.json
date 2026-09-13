@@ -2130,5 +2130,25 @@
       "She's been under the weather all week, but she still showed up to class.",
       "Sorry, I might have to skip the party tonight — I'm a little under the weather."
     ]
+  },
+  {
+    "id": 109,
+    "date": "2026-09-13",
+    "phrase": "Sounds like a plan",
+    "meaning": "聽起來不錯，就這麼辦吧！—— 愉快地贊同對方的提議",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "agreement",
+      "planning",
+      "enthusiasm"
+    ],
+    "analysis": "「Sounds like a plan」是美國人日常對話中超常用的口語短句，字面上是「聽起來像個計劃」，真正的意思是「聽起來很棒，就這麼辦吧！」當有人提出一個具體的提議，你想開心地說「好，就這麼定了」時，這句就是最道地的回應。它比單純的 OK 或 Sure 多了一份「我很滿意、躍躍欲試」的正能量，也比 \"That's a good idea\" 更自然、更有畫面感。台灣學生常把 OK 掛在嘴邊，其實母語者在敲定約定時更愛說這句。教學上可讓學生模擬規劃週末的情境——一方說「先去爬山、再吃冰」，另一方回 \"Sounds like a plan!\"，反覆練習就能變成反射動作。延伸用法還有 \"Sounds good to me\"、\"Works for me\"，都是同意提議的萬用好句。",
+    "examples": [
+      "A: \"How about we grab dinner and catch a movie?\" B: \"Sounds like a plan!\"",
+      "A: \"Let's meet at the station at six.\" B: \"Sounds like a plan — see you there.\"",
+      "A: \"Want to hit the gym before class tomorrow?\" B: \"Sounds like a plan!\""
+    ]
   }
 ]
