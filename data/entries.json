@@ -2150,5 +2150,25 @@
       "A: \"Let's meet at the station at six.\" B: \"Sounds like a plan — see you there.\"",
       "A: \"Want to hit the gym before class tomorrow?\" B: \"Sounds like a plan!\""
     ]
+  },
+  {
+    "id": 110,
+    "date": "2026-09-14",
+    "phrase": "bite the bullet",
+    "meaning": "硬著頭皮去做——鼓起勇氣面對不想做、卻不得不做的事",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "courage",
+      "workplace",
+      "daily-conversation",
+      "determination"
+    ],
+    "analysis": "「Bite the bullet」字面上是「咬住子彈」，這個畫面其實來自戰場上的真實故事：在麻醉藥還沒普及的年代，士兵動手術時會咬住一顆子彈來忍住劇痛、避免咬到舌頭。現代意思就引申成「硬著頭皮去做一件不想做、卻不得不做的事」。對台灣學生來說，這是最有畫面感、也最好記的片語之一——繳稅、看牙醫、跟老闆提加薪，甚至鼓起勇氣告白，通通都是「bite the bullet」的情境。教學上建議先講這個戰場小故事製造反差，學生一聽就忘不掉；接著讓學生列出自己最近「硬著頭皮做」的事，用這句造出屬於自己的句子。要提醒的是，這個片語帶有一點「咬牙撐過去」的壯烈感，通常用在真的有點痛苦或勉強的事，日常小事用起來會太誇張喔！",
+    "examples": [
+      "I've been putting off the dentist, but I finally bit the bullet and made an appointment.",
+      "After months of hesitation, she bit the bullet and asked her boss for a raise.",
+      "You just have to bite the bullet and finish this report tonight."
+    ]
   }
 ]
