@@ -2190,5 +2190,25 @@
       "I was delulu thinking I could finish this project in one night.",
       "A: Do you think he likes me back? B: Babe, you're being delulu."
     ]
+  },
+  {
+    "id": 112,
+    "date": "2026-09-16",
+    "phrase": "get cold feet",
+    "meaning": "臨陣退縮、突然怯場——在重要關頭感到害怕而想打退堂鼓",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "feelings",
+      "courage",
+      "daily-conversation",
+      "nervousness"
+    ],
+    "analysis": "「Get cold feet」字面上是「雙腳發冷」，跟天氣完全沒關係——它形容人在重要關頭突然湧上的恐懼與退縮，像是一股涼意從腳底竄上來，讓人只想轉身逃跑。這個片語的起源眾說紛紜，其中一個有趣的說法來自賭場：輸到發慌的賭客常藉口「腳冷」想離開牌桌，久而久之就引申成「臨陣退縮」。現代用法超廣：結婚前突然想悔婚、上台報告前緊張到想請假、告白前一刻打退堂鼓，通通都是 get cold feet。對台灣學生來說超好代入——我們說「縮了」「慫了」，英文一句 get cold feet 就到位。常見句型是 get cold feet about + 名詞／動名詞。教學上建議先用「婚禮上新娘想落跑」的喜劇畫面建立情境，再讓學生聊聊自己最近一次 get cold feet 的經驗，保證印象深刻。",
+    "examples": [
+      "He was going to ask her out, but he got cold feet at the last second.",
+      "I wanted to sign up for the speech contest, but I got cold feet and never did.",
+      "A: \"Did you finally tell your boss you're quitting?\" B: \"No, I got cold feet.\""
+    ]
   }
 ]
