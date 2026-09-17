@@ -2210,5 +2210,25 @@
       "I wanted to sign up for the speech contest, but I got cold feet and never did.",
       "A: \"Did you finally tell your boss you're quitting?\" B: \"No, I got cold feet.\""
     ]
+  },
+  {
+    "id": 113,
+    "date": "2026-09-17",
+    "phrase": "I'll pass",
+    "meaning": "先不用了、我就不了——禮貌地婉拒別人的提議或邀請",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "politeness",
+      "refusal",
+      "daily-conversation"
+    ],
+    "analysis": "「I'll pass」的 pass 在這裡是「跳過、略過」的意思，整句話就是「我跳過、先不要了」。當有人邀請你、遞東西給你，或問你要不要加入某件事，你想客氣地婉拒時，一句「I'll pass」比直接說「No」更柔和、比「I don't want to」更自然，是美國人天天在用的拒絕用語。台灣學生常只會硬梆梆回「No, thank you」或尷笑帶過，學會這句就能漂亮婉拒又不傷感情。有趣的是 pass 超百變：課本裡是「通過考試」pass the exam、球場上是「傳球」pass the ball，口語裡又多了「婉拒」的用法。要提醒別跟 pass away（過世）搞混。教學上可設計「如何有禮貌地拒絕」的情境卡，讓學生在邀約、分食、推銷等場景輪流練習，實用度破表。",
+    "examples": [
+      "I'll pass on dessert tonight — I'm trying to cut back on sugar.",
+      "A: \"Do you want to join our study group?\" B: \"I'll pass, but thanks for asking!\"",
+      "Thanks for the invite, but I'll pass — I already have plans."
+    ]
   }
 ]
