@@ -2250,5 +2250,25 @@
       "I forgot to save my essay and my laptop just died. I'm so cooked.",
       "I have three deadlines tomorrow and I haven't started any of them. I'm cooked."
     ]
+  },
+  {
+    "id": 115,
+    "date": "2026-09-19",
+    "phrase": "throw someone under the bus",
+    "meaning": "出賣某人、把某人推出去當擋箭牌——為了自保或推卸責任而陷害別人",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "workplace",
+      "betrayal",
+      "daily-conversation",
+      "metaphor"
+    ],
+    "analysis": "「Throw someone under the bus」字面上是「把某人丟到公車底下」，畫面超有戲——想像一台公車朝你開來，你為了自保，把旁邊的人一把推出去擋。這個片語就是在形容「為了自保或推卸責任，出賣、陷害別人」。它在美國職場和日常對話中超常見，尤其團隊出包、辦公室政治時特別容易聽到：專案搞砸了，同事為了撇清責任，在老闆面前把錯全推給你，這就是把你 throw under the bus。對台灣學生來說超好懂——我們說「推出去當擋箭牌」「背黑鍋」，英文一句就到位。教學上建議先讓學生看字面畫面建立印象，再用「分組報告有人沒做事、最後卻被指責」的校園情境練習，學生立刻能代入。也別忘了它的被動用法 I got thrown under the bus，超實用！",
+    "examples": [
+      "My teammate blamed me for the mistake and totally threw me under the bus in front of the boss.",
+      "He threw his friend under the bus just to save his own job.",
+      "I can't believe she threw me under the bus like that after everything I did for her."
+    ]
   }
 ]
