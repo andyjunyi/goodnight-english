@@ -2290,5 +2290,25 @@
       "A: \"I'm so nervous about my job interview tomorrow.\" B: \"Relax, you got this.\"",
       "Just take a deep breath and go out there. You got this!"
     ]
+  },
+  {
+    "id": 117,
+    "date": "2026-09-21",
+    "phrase": "crash out",
+    "meaning": "爆氣、情緒失控、直接崩潰 — 形容被逼到極限，忍不住抓狂或整個人攤掉",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "social-media",
+      "emotions",
+      "daily-conversation"
+    ],
+    "analysis": "「Crash out」字面上是「撞出去、衝出去」，但在美國年輕人口中，它的意思是「情緒爆炸、爆氣、直接崩潰」。這個字原本在非裔美式英語裡指「累到倒頭就睡」，後來在遊戲與網路社群長出全新用法——被逼到極限、忍無可忍，情緒整個炸開，如今連 Merriam-Webster 都正式收錄。對台灣學生來說超好代入：熬夜趕報告、遊戲連輸五場、報告組員又放鳥，那種「我真的要炸了」的瞬間，就是 I'm about to crash out。教學上建議先從字面動作建立畫面，再對比中文的「我要瘋了」「我爆氣了」，學生一秒就能抓到語感。也要提醒：crash out 不一定是大吼大叫，有時只是情緒撐不住直接攤掉；它偏口語，正式寫作請用 lose your temper 或 freak out。",
+    "examples": [
+      "I've been staring at this screen for six hours — I'm about to crash out.",
+      "He crashed out over a video game and started yelling at his roommate.",
+      "A: \"Our group project is due tomorrow and nobody did their part.\" B: \"I'm gonna crash out.\""
+    ]
   }
 ]
