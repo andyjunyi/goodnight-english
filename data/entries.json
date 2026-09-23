@@ -2330,5 +2330,25 @@
       "A: \"Are you going to the concert?\" B: \"I'm on the fence — the tickets are pretty expensive.\"",
       "She's been sitting on the fence for weeks and still hasn't picked a major."
     ]
+  },
+  {
+    "id": 119,
+    "date": "2026-09-23",
+    "phrase": "It's not that deep",
+    "meaning": "別想太多、沒那麼嚴重——勸人放輕鬆，別把事情想得太複雜或太嚴重",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "perspective",
+      "social-media",
+      "reassurance"
+    ],
+    "analysis": "「It's not that deep」字面上是「它沒有那麼深」，但口語裡完全不是在形容水或洞，而是在勸人「別想太多、沒那麼嚴重」。當朋友為了一句留言、一個眼神或一次小失誤糾結半天，你一句 It's not that deep 就能把他拉回現實，語氣輕鬆、帶點無奈的溫柔。這個說法在社群平台與年輕人之間極度流行，常出現在吵架後的勸架，或自己講完氣話後的自我調解。對台灣學生來說超好代入——我們說「你想太多了」「沒這麼嚴重吧」，英文就是這一句。教學上建議先讓學生分辨它和 It doesn't matter（無所謂）的差別：後者是「我不在乎」，前者是「你把它看得太重了」。也要提醒這是口語用法，正式書面語請改用 Don't overthink it。",
+    "examples": [
+      "Relax, it's just a typo in the group chat — it's not that deep.",
+      "A: \"I think she's mad at me because of my comment.\" B: \"Honestly, it's not that deep. She probably didn't even notice.\"",
+      "I spent an hour worrying about that email, but honestly, it's not that deep."
+    ]
   }
 ]
