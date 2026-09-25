@@ -2370,5 +2370,25 @@
       "We were supposed to study, but we just yapped for two hours.",
       "A: \"Did you hear what happened at the party?\" B: \"Stop yapping and get to the point!\""
     ]
+  },
+  {
+    "id": 121,
+    "date": "2026-09-25",
+    "phrase": "a blessing in disguise",
+    "meaning": "因禍得福 — 乍看是壞事，後來才發現其實是好事",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "perspective",
+      "optimism",
+      "writing"
+    ],
+    "analysis": "「A blessing in disguise」字面上是「偽裝起來的祝福」，意思是「乍看之下是壞事，最後卻變成好事」，中文最貼近的說法就是「因禍得福」。想像一份包裝得很醜的禮物，拆開才發現裡面是寶物，這就是這個片語的畫面。它的由來可追溯到十八世紀的英文，原本帶點宗教色彩，指上天的恩典藏在苦難之中，如今已完全口語化。對台灣學生來說，這是學測、指考寫作和日常對話都超好用的一句：沒考上第一志願卻遇到最好的朋友、面試被拒後來找到更適合的工作，都可以說 It turned out to be a blessing in disguise. 教學上建議先讓學生比較 bad luck（純粹倒楣）和 a blessing in disguise（倒楣之後反而變好）的差別，再辦一場「人生轉折」分享活動，讓學生用自己的故事造句，他們會講得特別有感。",
+    "examples": [
+      "Getting rejected from that job turned out to be a blessing in disguise — I found a much better one a month later.",
+      "Missing my flight was a blessing in disguise, because I ran into an old friend at the airport and we ended up traveling together.",
+      "A: \"Our trip got canceled because of the typhoon.\" B: \"Honestly, it might be a blessing in disguise — the weather was terrible anyway.\""
+    ]
   }
 ]
