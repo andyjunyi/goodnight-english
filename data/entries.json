@@ -2390,5 +2390,25 @@
       "Missing my flight was a blessing in disguise, because I ran into an old friend at the airport and we ended up traveling together.",
       "A: \"Our trip got canceled because of the typhoon.\" B: \"Honestly, it might be a blessing in disguise — the weather was terrible anyway.\""
     ]
+  },
+  {
+    "id": 122,
+    "date": "2026-09-26",
+    "phrase": "ghost someone",
+    "meaning": "人間蒸發、搞消失 —— 突然不讀不回、斷聯不告而別",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "dating",
+      "social-media",
+      "internet",
+      "relationships"
+    ],
+    "analysis": "「Ghost」當動詞時字面意思是「像鬼一樣消失」，但在現代口語裡專指一種讓人又氣又無奈的行為：原本聊得好好的對象，突然不回訊息、不接電話，直接人間蒸發，既沒解釋也沒有告別。這個詞在交友軟體與社群世代全面普及，一句 \"He ghosted me.\" 就道盡整個故事。對台灣學生來說情境非常熟悉——曖昧對象已讀不回、聊到一半消失、約好見面卻臨時放鳥，全都可以用 ghost。教學上建議先建立畫面感：鬼不會留下痕跡，所以 ghost 就是「不留痕跡地消失」。也要提醒學生，ghost 帶有責備與受傷的語氣，通常是「被消失」的那一方在訴苦；如果是自己刻意斷聯，母語者會說 I had to ghost him，語氣反而坦然。延伸可補充名詞 ghosting，以及 soft ghosting（不封鎖、但永遠不讀不回），都非常實用。",
+    "examples": [
+      "We went on two great dates, and then he just ghosted me.",
+      "I hate it when guys ghost you instead of saying they're not interested.",
+      "She stopped replying to my texts last week, so I think I got ghosted."
+    ]
   }
 ]
