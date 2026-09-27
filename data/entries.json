@@ -2410,5 +2410,25 @@
       "I hate it when guys ghost you instead of saying they're not interested.",
       "She stopped replying to my texts last week, so I think I got ghosted."
     ]
+  },
+  {
+    "id": 123,
+    "date": "2026-09-27",
+    "phrase": "Go with the flow",
+    "meaning": "順其自然、隨遇而安 — 不強求掌控，跟著當下的情況走",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "attitude",
+      "personality",
+      "casual"
+    ],
+    "analysis": "「Go with the flow」字面上是「跟著水流走」，意象來自河流——水往哪流，你就順著漂，不逆流硬撐。它在美國日常對話中出現頻率極高，意思是「順其自然、隨遇而安」，不刻意掌控或對抗當下的狀況。要特別注意，它和中文的「隨波逐流」並不完全相同：中文的「隨波逐流」常帶負面意味（沒主見、盲從），但英文的 go with the flow 多半是中性甚至正面的，用來讚許一個人放鬆、不糾結、能靈活應變。對台灣學生來說，最好的情境就是旅行：原本排了滿滿的行程，結果突然下大雨，朋友一句「Let's just go with the flow and see where we end up.」不硬撐計畫，反而更盡興。教學上建議點出這層語氣差異，並搭配「just go with it」做替換練習，讓學生在出遊、臨時改計畫或面對突發狀況時，都能自然脫口而出。",
+    "examples": [
+      "Don't stress about the schedule — let's just go with the flow.",
+      "I used to plan every minute of my trips, but now I just go with the flow.",
+      "The party got canceled, so we decided to go with the flow and grab dinner instead."
+    ]
   }
 ]
