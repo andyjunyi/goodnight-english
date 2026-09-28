@@ -2430,5 +2430,25 @@
       "I used to plan every minute of my trips, but now I just go with the flow.",
       "The party got canceled, so we decided to go with the flow and grab dinner instead."
     ]
+  },
+  {
+    "id": 124,
+    "date": "2026-09-28",
+    "phrase": "Sleep on it",
+    "meaning": "先別急著決定，回去想一晚再說 —「睡一覺再想清楚」",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "decision-making",
+      "advice",
+      "workplace"
+    ],
+    "analysis": "「Sleep on it」字面上是「睡在上面」，實際意思卻完全無關字面——它指的是「先別急著下決定，回去沉澱一晚再說」。這個用法源自英文把「睡覺」當成讓頭腦冷靜、情緒退溫的過程，背後是很實用的決策智慧：重大的事不要在情緒最高點決定。美國人從買東西、換工作到告白、買房，只要有人猶豫，朋友就會說「Why don't you sleep on it?」語氣輕鬆，卻把選擇權交還給對方。對台灣學生來說，這句特別適合「同學邀你報名比賽還在考慮」或「打工面試要回覆」的情境。教學上建議對比中文的「再想想」「明天再說」，並提醒學生這是固定搭配，不能說成 sleep on the question；延伸變化有 I need to sleep on it 和 Let me sleep on it，兩句都很道地，學會了馬上就能用。",
+    "examples": [
+      "You don't have to answer right now — sleep on it and let me know tomorrow.",
+      "I'm not sure about the offer, so I'm going to sleep on it before I decide.",
+      "A: \"Should I buy this jacket?\" B: \"It's a bit pricey — sleep on it, and if you still want it tomorrow, get it.\""
+    ]
   }
 ]
