@@ -2450,5 +2450,25 @@
       "I'm not sure about the offer, so I'm going to sleep on it before I decide.",
       "A: \"Should I buy this jacket?\" B: \"It's a bit pricey — sleep on it, and if you still want it tomorrow, get it.\""
     ]
+  },
+  {
+    "id": 125,
+    "date": "2026-09-29",
+    "phrase": "the ick",
+    "meaning": "突然的倒胃口感 — 對某人或某事莫名湧上的反感、好感瞬間冷掉",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "dating",
+      "social-media",
+      "internet",
+      "conversation"
+    ],
+    "analysis": "「The ick」字面是「那種噁心感」，是近年從網路與約會文化爆紅的俚語，專指突然湧上、說不出原因的反感——對方可能只是做了一個小動作或說了一句話，原本的好感瞬間冷掉。經典說法是「I got the ick.」（我突然冷掉了）或「He gave me the ick.」（他讓我瞬間倒胃口）。妙的是，引發 ick 的通常不是什麼大事：吃東西的方式、全大寫的訊息、一雙奇怪的襪子，都可能讓人一瞬間「回不去了」。對台灣學生來說，中文常說「突然冷掉」「瞬間滅火」，英文只要一句 the ick 就精準到位。教學上建議用「什麼會給你 the ick？」這類輕鬆的約會話題帶動討論，學生特別有共鳴；同時提醒 the ick 是名詞，動詞用法為 get / give someone the ick，別說成 \"I ick him\"。它也偏口語，適合聊天，不適合正式寫作。",
+    "examples": [
+      "He chewed with his mouth open, and I instantly got the ick.",
+      "I really liked him until he called me kiddo. Immediate ick.",
+      "She gave me the ick when she started talking about her ex on the first date."
+    ]
   }
 ]
