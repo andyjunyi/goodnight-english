@@ -2490,5 +2490,25 @@
       "I couldn't parallel park at all at first, but I'm slowly getting the hang of it.",
       "She just started learning guitar and she's already getting the hang of it."
     ]
+  },
+  {
+    "id": 127,
+    "date": "2026-10-01",
+    "phrase": "Hit me up",
+    "meaning": "揪我、找我、聯絡我一下 —— 想約人或有消息時的道地口語說法",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "social",
+      "planning",
+      "casual"
+    ],
+    "analysis": "「Hit me up」字面上是「打我一下」，但和暴力無關，是美國年輕人常用的口語，意思是「聯絡我、揪我」。想約朋友、想說「有消息記得跟我講」，一句 Hit me up 就搞定。注意 hit up 接人和接地方意思不同：hit me up 是「聯絡我」，hit up a bar 卻是「去酒吧玩」。台灣學生最實用的就是揪團：看到好店想揪人，說 \"Hit me up if you want to come.\" 就很道地。也可補充縮寫 hmu。這是口語用法，正式場合用 contact me 比較得體。",
+    "examples": [
+      "Hit me up when you get to Taipei. We should grab dinner.",
+      "If you ever need someone to practice English with, just hit me up.",
+      "I'm free this weekend, so hit me up if you want to hang out."
+    ]
   }
 ]
