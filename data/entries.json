@@ -2510,5 +2510,25 @@
       "If you ever need someone to practice English with, just hit me up.",
       "I'm free this weekend, so hit me up if you want to hang out."
     ]
+  },
+  {
+    "id": 128,
+    "date": "2026-10-02",
+    "phrase": "Flex",
+    "meaning": "炫耀、秀一下 —— 刻意展現自己的成就、財物或好東西",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "social-media",
+      "daily-conversation",
+      "attitude"
+    ],
+    "analysis": "「Flex」字面上是「繃緊、收縮肌肉」——健身房裡猛男用力鼓起二頭肌向人炫耀的那個動作，就是 flex。這個動作後來被引申為「炫耀、秀一下」：不管是新手機、好成績，還是跟偶像的合照，只要拿出來現，都可以說 I'm flexing。它可當動詞（He's always flexing his new stuff.），也能當名詞（That car is such a flex.）。台灣學生對這種「秀」的行為一定不陌生——社群媒體上人人都在擺拍，正是 flex 文化的縮影。要提醒學生語氣上的拿捏：朋友之間一句 Stop flexing! 是半開玩笑的吐槽，非常常見；但若拿來形容別人，可能帶著一點酸味。教學上可以搭配中文的「炫」「曬」來對比，並補充進階詞 humblebrag（假低調、真炫耀），讓學生感受英文描述「炫耀」的細膩層次。也可以玩一個「Today's flex」小活動，讓學生用一句英文分享今天最想炫耀的小事，練習自然產出。",
+    "examples": [
+      "He's always flexing his new sneakers on Instagram.",
+      "A: \"I got front-row tickets to the concert!\" B: \"Okay, no need to flex.\"",
+      "Winning that award was a major flex for our team."
+    ]
   }
 ]
