@@ -2530,5 +2530,25 @@
       "A: \"I got front-row tickets to the concert!\" B: \"Okay, no need to flex.\"",
       "Winning that award was a major flex for our team."
     ]
+  },
+  {
+    "id": 129,
+    "date": "2026-10-03",
+    "phrase": "call it a day",
+    "meaning": "今天就到此為止吧 —— 收工、結束手邊的事，休息去",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "workplace",
+      "daily-conversation",
+      "productivity",
+      "rest"
+    ],
+    "analysis": "「Call it a day」字面是「把它稱作一天」，聽起來有點無厘頭，真正的意思其實是「今天就做到這裡、收工休息」。這個說法源自早期工人做完一天的活、準備下工回家的情景，後來延伸到各種場合——不一定要真的下班，只要你想為某件事畫下句點、決定「今天先這樣」，都可以用。對台灣學生來說，最貼近的語感是「收工啦」或「今天就先這樣吧」。使用情境超生活化：小組報告討論到太晚，組長一句 Let's call it a day. 大家就解散；打工忙了一整天，下班前跟同事說 I'm calling it a day. 帥氣又自然。要特別提醒學生：它和「放棄」不一樣——call it a day 是因為「今天做得差不多了、該休息了」，不是認輸，語氣輕鬆又乾脆。教學上建議用 It's getting late. 或 We've done enough. 這類情境導入，並和 quit（放棄）對比，幫學生釐清「收工休息」和「半途而廢」的差別。",
+    "examples": [
+      "We've been working on this report for six hours — let's call it a day.",
+      "I'm exhausted. I think I'm going to call it a day and head home.",
+      "A: \"Want to keep practicing?\" B: \"It's almost midnight. Let's call it a day and finish tomorrow.\""
+    ]
   }
 ]
