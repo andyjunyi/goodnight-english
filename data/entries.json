@@ -2550,5 +2550,25 @@
       "I'm exhausted. I think I'm going to call it a day and head home.",
       "A: \"Want to keep practicing?\" B: \"It's almost midnight. Let's call it a day and finish tomorrow.\""
     ]
+  },
+  {
+    "id": 130,
+    "date": "2026-10-04",
+    "phrase": "Fingers crossed",
+    "meaning": "祈求好運、希望一切順利 —— 默默祈禱事情能如願",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "hope",
+      "encouragement",
+      "luck"
+    ],
+    "analysis": "\"Fingers crossed\" 字面上是「手指交叉」，也就是把中指疊在食指上的那個手勢 🤞。這個動作源自古老的西方迷信——早期的人相信交叉手指能驅走厄運、讓願望成真，後來就演變成「祈禱、希望一切順利」的道地口語。對台灣學生來說，這句超好記也超實用：考試前、面試前、等放榜、等雨停，只要心裡默默希望某件事順利，都可以說 Fingers crossed!。它可以是獨立的一句感嘆，也能說 I'm keeping my fingers crossed for you.（我為你祈禱）。教學上提醒學生，這是輕鬆俏皮的口語用法，正式場合可改用 I hope everything goes well；它常搭配 hope、keep 兩個動詞，用法固定，學會後在對話裡馬上就能自然使用。",
+    "examples": [
+      "I have my interview tomorrow — fingers crossed!",
+      "We're keeping our fingers crossed that the weather stays nice for the trip.",
+      "A: \"Did you get the scholarship?\" B: \"Not yet — fingers crossed!\""
+    ]
   }
 ]
