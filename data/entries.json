@@ -2590,5 +2590,25 @@
       "I'm down bad for those new sneakers; I've watched the review video like ten times.",
       "A: \"Are you texting him again?\" B: \"Don't judge me, I'm down bad, okay?\""
     ]
+  },
+  {
+    "id": 132,
+    "date": "2026-10-06",
+    "phrase": "wrap your head around it",
+    "meaning": "搞懂、想通 —— 費盡心思去理解一件複雜或難以接受的事",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "learning",
+      "understanding",
+      "daily-conversation",
+      "mental-effort"
+    ],
+    "analysis": "「Wrap your head around it」字面是「把你的頭包圍起來」，畫面像整個思緒繞著一個難題打轉，怎麼想都想不透。真正的意思是「搞懂、想通一件複雜或難以接受的事」，語氣帶點吃力感——不是輕鬆理解，而是費一番功夫才終於想明白。對台灣學生來說最好用的情境就是課業：微積分、程式迴圈或一句複雜的文法，老師講了三遍你還霧裡看花，就能說 I still can't wrap my head around it.（我還是搞不懂。）它也很適合形容難以接受的壞消息。教學上提醒：後面固定接 it 或具體的事（wrap your head around the idea），且幾乎都用於否定或疑問，例如 can't、trying to，很少說成肯定的 I wrapped my head around it。用這句表達「還在努力理解」，既誠實又不失禮貌，是很自然的學習者用語。",
+    "examples": [
+      "I've read the instructions three times, but I still can't wrap my head around it.",
+      "It took me a while to wrap my head around the new grammar rule, but it finally clicked.",
+      "I'm still trying to wrap my head around why he quit his job."
+    ]
   }
 ]
