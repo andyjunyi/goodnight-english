@@ -2630,5 +2630,25 @@
       "You need help moving this weekend? Say less -- I'll be there at nine.",
       "A: It's a long story... B: Say less, I already know how it ends."
     ]
+  },
+  {
+    "id": 134,
+    "date": "2026-10-08",
+    "phrase": "Heads up",
+    "meaning": "「提醒一下、先跟你說一聲」— 在事情發生前主動告知對方，讓人心裡有準備",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "workplace",
+      "notice",
+      "informal"
+    ],
+    "analysis": "「Heads up」字面上是「把頭抬起來」——想像球場上有人大喊 Heads up!，提醒你快抬頭，因為一顆球正朝你飛來，這就是它「提醒、注意」的原始意象。演變到日常對話後，它變成一個超實用的名詞短語：在事情發生前先跟對方說一聲，讓人心裡有個底。最常見的句型是「Just a heads up, ...」開頭，以及「Thanks for the heads up.」（謝謝你先告訴我）、「give someone a heads up」（事先知會某人）。對台灣學生來說情境超好懂：同事明天請假、老闆臨時要開會、捷運某站週末維修，都可以先給對方一個 heads up。它比 warning 溫和，又比 remind 更強調「主動提前告知」，帶有體貼的意味。教學上建議讓學生練習在句首加 Just a heads up，並對比 Thanks for the heads up. 這組一說一答的高頻搭配，很快就能自然用在職場與日常對話中。",
+    "examples": [
+      "Just a heads up, the meeting has been moved to 3 p.m.",
+      "Thanks for the heads up - I almost forgot to bring my laptop.",
+      "Give me a heads up before you drop by, so I can tidy up."
+    ]
   }
 ]
