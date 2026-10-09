@@ -2650,5 +2650,25 @@
       "Thanks for the heads up - I almost forgot to bring my laptop.",
       "Give me a heads up before you drop by, so I can tidy up."
     ]
+  },
+  {
+    "id": 135,
+    "date": "2026-10-09",
+    "phrase": "back to square one",
+    "meaning": "前功盡棄、退回原點 — 一切努力白費，只好從頭再來一次",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "workplace",
+      "setback",
+      "learning"
+    ],
+    "analysis": "「Back to square one」字面上是「回到第一格」，畫面來自跳格子與桌遊——遊戲或棋盤上標著一格一格的數字，一旦失誤就得從第一格重新出發。它的確切起源有兩說，一說來自早期英國廣播的足球轉播，把球場劃分成一格一格方便聽眾定位；另一說來自傳統的跳格子與兒童桌遊。無論如何，演變到日常英語後，它的意思就是「前功盡棄、退回原點」，辛苦做的一切白費，只能從頭再來。這個片語在美國口語中出現頻率很高，語氣帶著一點無奈，卻不至於絕望，反而有種「好吧，那就重來一次」的認命與韌性。對台灣學生來說情境超好代入：分組報告的程式寫到一半當機、存檔沒存到，或是煮菜失手整鍋倒掉重做，都能說一句 We're back to square one. 教學上建議先從「棋盤第一格」的畫面建立記憶點，再讓學生用這個片語描述自己「白忙一場」的經驗，並補充常見搭配 go back to / start from square one，學生很快就能自然運用。",
+    "examples": [
+      "Our laptop crashed and we lost all our work, so now we're back to square one.",
+      "The deal fell through, so it's back to square one for the whole team.",
+      "A: \"Did the recipe turn out okay?\" B: \"No, I burned everything. Back to square one.\""
+    ]
   }
 ]
