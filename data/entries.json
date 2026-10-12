@@ -2710,5 +2710,24 @@
       "The boss asked me to fix the report, and I told her I'm on it.",
       "A: We still need someone to book the tickets. B: I'm on it -- give me five minutes."
     ]
+  },
+  {
+    "id": 138,
+    "date": "2026-10-12",
+    "phrase": "burn the midnight oil",
+    "meaning": "熬夜苦讀／挑燈夜戰 — 為了趕工或準備而犧牲睡眠",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "study",
+      "work",
+      "effort"
+    ],
+    "analysis": "「burn the midnight oil」字面上是「燃燒午夜的油」，源自古早沒有電燈的年代——人們靠燒油燈照明，半夜燈還亮著，就代表還在挑燈夜戰。這個片語現在專指為了準備考試、趕報告或加班而犧牲睡眠，中文的「熬夜苦讀」「挑燈夜戰」幾乎完全對應。對台灣學生來說情境超熟悉：段考前 K 書、期末報告做不完、專題趕進度，都能說 I burned the midnight oil last night.。要注意它帶有「辛苦但認真打拚」的正面意味，和單純的 stay up late（只是晚睡，可能是在追劇）不太一樣——用 midnight oil 通常暗示你在為正事努力。教學上可補充：這個說法從十九世紀的文學作品就開始使用，至今仍是新聞與日常口語的高頻片語。提醒學生動詞幾乎都用 burn，也常見進行式，例如 I've been burning the midnight oil all week.",
+    "examples": [
+      "I burned the midnight oil last night to finish my report.",
+      "She's been burning the midnight oil all week to prepare for the exam.",
+      "A: You look exhausted. B: Yeah, I burned the midnight oil cramming for finals."
+    ]
   }
 ]
