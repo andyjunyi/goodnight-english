@@ -2768,5 +2768,25 @@
       "I said I was too tired to go out, and he was just like, \"Fair enough.\"",
       "You don't want to split the bill? Fair enough, I'll get this one."
     ]
+  },
+  {
+    "id": 141,
+    "date": "2026-10-15",
+    "phrase": "Spill the beans",
+    "meaning": "說溜嘴、洩漏祕密 — 把原本該保密的事講出來",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "secrets",
+      "conversation",
+      "gossip",
+      "daily-conversation"
+    ],
+    "analysis": "「Spill the beans」字面是「把豆子灑出來」——想像一袋豆子被打翻、散落一地，想撿也撿不回，正好比喻「祕密一旦說出口就收不回去」。它的意思是「說溜嘴、把不該說的祕密講出來」，跟中文的「爆料」「把底牌掀了」很接近。這個片語在美式日常對話裡很常見，語氣輕鬆又帶點調皮，不是嚴肅的指控。對台灣學生最好用的情境是：大家偷偷幫朋友準備生日驚喜，卻有人忍不住先講出來，這時就能說 You spilled the beans!。教學上建議用「打翻豆子、一發不可收拾」的畫面幫學生記憶，再區分它和 leak（正式洩密）的差別：spill the beans 多用於朋友之間的小祕密，俏皮而不責備。也能延伸 Never spill the beans.（千萬別說出去）當作提醒。",
+    "examples": [
+      "Come on, spill the beans — what did she tell you?",
+      "I wasn't supposed to say anything, but I accidentally spilled the beans about the party.",
+      "Don't spill the beans about the surprise trip; it's supposed to be a secret."
+    ]
   }
 ]
