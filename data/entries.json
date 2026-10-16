@@ -2788,5 +2788,25 @@
       "I wasn't supposed to say anything, but I accidentally spilled the beans about the party.",
       "Don't spill the beans about the surprise trip; it's supposed to be a secret."
     ]
+  },
+  {
+    "id": 142,
+    "date": "2026-10-16",
+    "phrase": "Take the L",
+    "meaning": "認栽、吞下敗仗 — 坦然接受失敗或損失，不找藉口",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "gaming",
+      "internet",
+      "attitude",
+      "daily-conversation"
+    ],
+    "analysis": "「Take the L」裡的 L 是 loss（輸、損失）的縮寫，整句就是「把這場敗仗收下」，意思是認栽、坦然接受失敗，不硬凹也不找藉口。它最早在美國運動與電玩圈流行起來：球迷輸球說 We took the L.，玩家打輸也會自嘲 Take the L and move on.，如今早已擴散到校園與日常對話，還常和 W（win，勝利）成對出現 — taking a W 是拿下勝利，taking an L 則是吞下敗仗，一個字母就把輸贏講得俐落又帥氣。對台灣學生來說，最實用的情境就是考試考砸、比賽輸了、告白被打槍，這時回一句 I'll take the L.，等於中文的「好啦，我認了」，帶著一種輸得起、看得開的成熟態度。教學上可提醒：這是口語、非正式用法，適合朋友之間互相調侃；動詞用 take，也常說 I took an L.，還能延伸 Take the L and move on.，把「輸了就認、繼續往前走」的帥氣態度一起學起來。",
+    "examples": [
+      "We lost the game by one point. Oh well, I'll take the L.",
+      "I studied all night and still failed the test. Guess I'll take the L on this one.",
+      "He thought he could beat me at chess, but he took a big L."
+    ]
   }
 ]
