@@ -2808,5 +2808,25 @@
       "I studied all night and still failed the test. Guess I'll take the L on this one.",
       "He thought he could beat me at chess, but he took a big L."
     ]
+  },
+  {
+    "id": 143,
+    "date": "2026-10-17",
+    "phrase": "ring a bell",
+    "meaning": "聽起來有印象、好像在哪裡聽過",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "memory",
+      "daily-conversation",
+      "communication",
+      "common-mistake"
+    ],
+    "analysis": "「Ring a bell」字面上是「敲響鈴鐺」，意思卻與鈴聲無關，而是「聽起來有印象、好像在哪聽過」。由來據說是教堂鐘聲會喚起記憶，像腦中小鈴被敲了一下。對台灣學生最實用的情境，是被問到某個人名或地名，想不起細節卻覺得耳熟——與其說 \"I think I know it\"，不如說 \"That name rings a bell.\"。教學時要提醒：它幾乎只用在疑問句和否定句，如 \"Does that ring a bell?\"，別說成 \"I ring a bell\"。",
+    "examples": [
+      "His name rings a bell, but I can't remember where I've seen him.",
+      "That song rings a bell — I think I heard it in a movie.",
+      "Sorry, the address doesn't ring a bell. Could you send it to me again?"
+    ]
   }
 ]
