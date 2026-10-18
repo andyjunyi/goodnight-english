@@ -2828,5 +2828,25 @@
       "That song rings a bell — I think I heard it in a movie.",
       "Sorry, the address doesn't ring a bell. Could you send it to me again?"
     ]
+  },
+  {
+    "id": 144,
+    "date": "2026-10-18",
+    "phrase": "Can I take a rain check?",
+    "meaning": "這次先不行，改天好嗎？—— 婉轉拒絕邀約、約定改期",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "conversation",
+      "invitation",
+      "politeness",
+      "social"
+    ],
+    "analysis": "「Take a rain check」字面是「拿一張雨天支票」，源自美國棒球：比賽因雨取消，球場發 rain check 讓觀眾憑券改看別場。後來借用到日常，變成「這次先不了，改天再說」的婉轉拒絕。朋友臨時邀約、你剛好沒空，與其冷冷說 No，不如說 Can I take a rain check?——我很有意願，只是今天不行，語氣友善又留餘地。注意重點是「延期」不是「取消」。教學時可設計趕報告婉拒吃鍋的情境，練習 I'll have to take a rain check on dinner tonight. 正式場合則可改用 Could we reschedule?",
+    "examples": [
+      "I'm swamped with homework tonight, so I'll have to take a rain check on the movie.",
+      "A: \"Want to grab dinner after work?\" B: \"Can I take a rain check? I promised my mom I'd be home early.\"",
+      "Thanks for the invitation — I'll take a rain check this time, but definitely next week!"
+    ]
   }
 ]
