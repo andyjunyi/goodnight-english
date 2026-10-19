@@ -2848,5 +2848,25 @@
       "A: \"Want to grab dinner after work?\" B: \"Can I take a rain check? I promised my mom I'd be home early.\"",
       "Thanks for the invitation — I'll take a rain check this time, but definitely next week!"
     ]
+  },
+  {
+    "id": 145,
+    "date": "2026-10-19",
+    "phrase": "That ship has sailed",
+    "meaning": "時機已過、來不及了——機會一旦錯過就回不去了",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "metaphor",
+      "missed-opportunity",
+      "conversation",
+      "daily-conversation"
+    ],
+    "analysis": "「That ship has sailed」字面是「那艘船已經開走了」——想像你衝到碼頭，卻只能看著船尾消失在海平線上，機會就是這樣，錯過就回不去了。這個片語在美式口語中很常見，用來委婉但清楚地說：某個機會或時機已經過去，再爭論也沒用。它比直接說 too late 更有畫面感，也不那麼刺人。台灣學生常遇到的情境是朋友想補交作業、想搶早鳥票，或想挽回一段感情，一句 Sorry, that ship has sailed. 就很到位。教學上可先讓學生想像碼頭的畫面，再對比 It's too late 的語氣差異：前者帶點無奈的幽默，後者比較冷淡。進階可練 the ship has sailed on... 的句型，把錯過的「那件事」講清楚；安慰朋友時記得語氣放軟，才不會顯得幸災樂禍。",
+    "examples": [
+      "I was going to ask her out, but she's dating someone now — that ship has sailed.",
+      "You can't sign up for the trip anymore. That ship has sailed.",
+      "A: \"Can I still get the early-bird price?\" B: \"Sorry, that ship has sailed.\""
+    ]
   }
 ]
