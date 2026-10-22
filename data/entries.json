@@ -2908,5 +2908,24 @@
       "A: \"Want to grab dinner after work?\" B: \"Yeah, I could go for some ramen.\"",
       "I'm not really hungry, but I could go for a coffee."
     ]
+  },
+  {
+    "id": 148,
+    "date": "2026-10-22",
+    "phrase": "Off the top of my head",
+    "meaning": "憑印象隨口說、一時想到的（不保證精確）",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "speaking",
+      "hedging"
+    ],
+    "analysis": "「Off the top of my head」字面是「從我頭頂上」，畫面像是答案沒寫在紙上，而是直接從腦袋頂端冒出來。它的功能是「先講個大概，但不掛保證」——回答數字、時間或清單時，先丟一個憑印象的答案，同時替自己留退路。這句在美國日常對話出現頻率極高，會議被臨時點名、朋友問你「大概多少錢」都派得上用場。對台灣學生最實用的地方是「爭取思考時間」：與其尷尬沉默或硬掰一個錯的數字，先說 Off the top of my head… 再接著講，聽起來自然又專業。教學上可讓學生練習「不確定但要回答」的情境，並提醒它常放句首，後面接 I'd say / maybe。正式書面報告則不宜使用。",
+    "examples": [
+      "Off the top of my head, I'd say the trip will cost about ten thousand dollars.",
+      "A: \"How many people came to the workshop?\" B: \"Off the top of my head, maybe thirty?\"",
+      "I can't give you the exact numbers off the top of my head, but I can check and get back to you."
+    ]
   }
 ]
