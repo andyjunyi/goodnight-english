@@ -2947,5 +2947,25 @@
       "A: \"Are they dating?\" B: \"I think so. She's been soft launching him for weeks.\"",
       "He finally hard launched her after three months of soft launching."
     ]
+  },
+  {
+    "id": 150,
+    "date": "2026-10-24",
+    "phrase": "You're all set.",
+    "meaning": "「都幫你用好了」——手續辦完、事情搞定，可以走了或可以開始了",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-conversation",
+      "service-english",
+      "travel",
+      "shopping",
+      "american-english"
+    ],
+    "analysis": "You're all set 字面是「你全部齊備了」，但在美國日常裡幾乎是服務場合的萬用結尾句：結完帳、看完診、辦完入住，櫃台都會這樣說，意思是「都辦好了，你可以走了」。台灣學生常聽成 Are you ready?，其實它更像中文的「這樣就可以了喔」。在咖啡廳刷完卡，店員笑著說 You're all set，你就去旁邊等叫號。教學上可一起教家族用法：All set? 是店員問「這樣就好了嗎？」；I'm all set 是客人說「我不用了，謝謝」。記住別直譯成「你全部設定好了」。",
+    "examples": [
+      "Here's your receipt — you're all set.",
+      "A: \"Is there anything else I can help you with?\" B: \"No, I'm all set, thanks.\"",
+      "Just sign here, and you're all set to pick up your package."
+    ]
   }
 ]
