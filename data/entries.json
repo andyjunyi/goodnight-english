@@ -2967,5 +2967,25 @@
       "A: \"Is there anything else I can help you with?\" B: \"No, I'm all set, thanks.\"",
       "Just sign here, and you're all set to pick up your package."
     ]
+  },
+  {
+    "id": 151,
+    "date": "2026-10-25",
+    "phrase": "We're in the same boat.",
+    "meaning": "「我們處境一樣」——彼此遇到同樣的麻煩，誰也別笑誰",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "empathy",
+      "workplace",
+      "american-english"
+    ],
+    "analysis": "same boat 字面是「同一條船」：船一漏水，船上的人不管身分都會一起沉，所以 in the same boat 就是「處境相同、命運綁在一起」，比 we are similar 多了一層「你的苦我懂」的溫度。台灣學生常直譯成 we are the same situation，其實口語幾乎都說 We're in the same boat。情境很好用：期末考前同學抱怨報告山積，回一句 We're in the same boat，比 I know 更有共鳴；同事一起被客戶追殺，說 We're all in the same boat here，馬上拉近距離。教學時提醒：主詞通常用 we；要表達處境不同就說 We're not in the same boat。它帶打氣意味，安慰人時語氣放軟，才不會像在比慘。",
+    "examples": [
+      "Don't worry about the rent going up — we're all in the same boat.",
+      "A: \"I have three finals next week.\" B: \"Same. We're in the same boat.\"",
+      "I know it sucks, but we're in the same boat here, so let's figure it out together."
+    ]
   }
 ]
