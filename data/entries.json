@@ -2987,5 +2987,25 @@
       "A: \"I have three finals next week.\" B: \"Same. We're in the same boat.\"",
       "I know it sucks, but we're in the same boat here, so let's figure it out together."
     ]
+  },
+  {
+    "id": 152,
+    "date": "2026-10-26",
+    "phrase": "doomscrolling",
+    "meaning": "「越滑越焦慮卻停不下來」——睡前無意識地狂滑壞消息和社群貼文",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "social-media",
+      "daily-conversation",
+      "mental-health"
+    ],
+    "analysis": "doomscrolling 是 doom（厄運）加 scrolling（滑手機）組成的詞，字面就是「一邊滑、一邊看著世界末日」。2020 年疫情期間爆紅：大家關在家狂刷確診數，越看越焦慮，手指卻停不下來，精準捕捉了「滑到心情變差還繼續滑」的矛盾。台灣學生不陌生：睡前想滑五分鐘，結果滑到凌晨兩點，越滑越睡不著——這就是 doomscrolling。可當名詞也可當動詞；教學上可和中性的 scrolling 對比，讓學生感受 doom 的負面色彩，並補充 doomscroller（愛滑負面資訊的人）。",
+    "examples": [
+      "I was doomscrolling for like an hour last night, and now I'm convinced the world is ending.",
+      "Stop doomscrolling and go to bed — the news will still be there tomorrow.",
+      "My screen time is up again. It's all doomscrolling, honestly."
+    ]
   }
 ]
