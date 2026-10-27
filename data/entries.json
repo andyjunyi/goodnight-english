@@ -3007,5 +3007,24 @@
       "Stop doomscrolling and go to bed — the news will still be there tomorrow.",
       "My screen time is up again. It's all doomscrolling, honestly."
     ]
+  },
+  {
+    "id": 153,
+    "date": "2026-10-27",
+    "phrase": "Take your time.",
+    "meaning": "「慢慢來，不趕」——叫對方別急，按自己的步調就好",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-conversation",
+      "politeness",
+      "common-phrases",
+      "speaking"
+    ],
+    "analysis": "Take your time. 字面是「拿走你的時間」，真正的意思卻是「慢慢來、不趕」。這是英美日常對話裡的萬用潤滑劑，尤其在對方遲到、動作慢、或還在猶豫的時候，用這句取代催促，瞬間把壓力拿掉。它背後是一種文化態度：時間是對方的，尊重他按自己的節奏完成。台灣學生最常犯的錯是講成 Take your time slowly，其實 time 在這裡已經含「慢慢」的意思，再加 slowly 反而累贅；也不要用 Don't hurry，那聽起來像命令。教學上可以讓學生比較 Hurry up 和 Take your time 的情緒落差，並提醒它也能用在商務場合軟化語氣——客戶說想再考慮一下，你回一句 Take your time.，既禮貌又不失專業。",
+    "examples": [
+      "Take your time — I'm not in a hurry at all.",
+      "There's no rush. Take your time and let me know what you think.",
+      "Take your time getting ready; I'll wait for you downstairs."
+    ]
   }
 ]
