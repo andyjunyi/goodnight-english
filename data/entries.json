@@ -3026,5 +3026,24 @@
       "There's no rush. Take your time and let me know what you think.",
       "Take your time getting ready; I'll wait for you downstairs."
     ]
+  },
+  {
+    "id": 154,
+    "date": "2026-10-28",
+    "phrase": "Cut to the chase.",
+    "meaning": "跳過鋪陳，直接講重點——別再繞圈子了",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "conversation",
+      "business-english",
+      "meetings"
+    ],
+    "analysis": "Cut to the chase 字面是「切到追逐戲」，源自早期好萊塢：動作片最後總有追車場面，觀眾想看的就是那裡，導演乾脆切過去。現在它的意思是「跳過鋪陳，直接講重點」，美國人開會、回訊息都常用，語氣不粗魯，卻帶著「時間不多」的務實感。台灣學生常誤把 chase 想成追人，其實完全無關。情境：報告開頭說 Let me cut to the chase — our budget is too low.，全場馬上抓到重點。教學時可和 get to the point 對比，這句更口語也更有畫面感。",
+    "examples": [
+      "Let's cut to the chase — how much is this going to cost?",
+      "I know you're busy, so I'll cut to the chase: we need the report by Friday.",
+      "She cut straight to the chase and told him the deal was off."
+    ]
   }
 ]
