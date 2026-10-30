@@ -3065,5 +3065,25 @@
       "Who carried the team tonight? I'm him, what can I say?",
       "Relax, I'm him. I've got this."
     ]
+  },
+  {
+    "id": 156,
+    "date": "2026-10-30",
+    "phrase": "Read the room.",
+    "meaning": "「看懂現場氣氛」——先觀察大家的反應，再決定要不要開口",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "social-skills",
+      "daily-conversation",
+      "workplace",
+      "emotional-intelligence"
+    ],
+    "analysis": "read the room 字面上是「讀一下這個房間」，但房間裡沒有字，要讀的是在場每個人的表情、語氣和氣氛。這個說法最早來自劇場與喜劇圈：脫口秀演員一上台，第一件事就是判斷今晚的觀眾買不買單，讀錯房間，再好的笑話也會冷掉。現在美國年輕人把它用在各種日常場合，意思是「先看清楚場合，再決定怎麼說話」。對台灣學生最實用的情境是群組聊天：大家在抱怨或難過，你卻突然貼一張迷因，馬上會被回一句 Read the room! 另一個常見情境是會議裡有人白目地提加薪。教學時可以提醒，這句通常帶著半開玩笑的責備，語氣不重，但意思很明確；也可以說 learn to read the room，強調這是一種能練習的社交敏感度。",
+    "examples": [
+      "Dude, read the room — everyone's stressed about the deadline.",
+      "She told a joke at the funeral. Talk about not reading the room.",
+      "Before you bring up the budget, read the room and see how the boss feels."
+    ]
   }
 ]
