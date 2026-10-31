@@ -3085,5 +3085,25 @@
       "She told a joke at the funeral. Talk about not reading the room.",
       "Before you bring up the budget, read the room and see how the boss feels."
     ]
+  },
+  {
+    "id": 157,
+    "date": "2026-10-31",
+    "phrase": "Touch grass.",
+    "meaning": "「去摸一下草」——叫沉迷網路的人關掉螢幕，回到真實生活",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "gaming",
+      "daily-conversation",
+      "humor"
+    ],
+    "analysis": "touch grass 字面上是「去摸一下草」，但沒人真的在叫你園藝。它出自遊戲與論壇文化：當一個人掛在線上太久、講話越來越脫離現實，別人就會叫他關掉螢幕、出去踩踩真正的草地。對台灣學生來說，最常見的情境是群組裡有人為了偶像或遊戲跟人吵到半夜，最後有人冷冷回一句 Go touch grass.，意思是「你太沉迷了，去過一下真實生活吧」。這句話帶著半開玩笑的調侃，幾乎都以祈使句出現，語氣像朋友間的吐槽，對長輩或不熟的人說會有點嗆。也可以延伸教 I need to touch some grass 這種自嘲用法。",
+    "examples": [
+      "Bro, you've been arguing online for six hours. Go touch grass.",
+      "I deleted the app for a week — honestly, I needed to touch some grass.",
+      "She saw my feed full of conspiracy videos and told me to touch grass."
+    ]
   }
 ]
