@@ -3105,5 +3105,25 @@
       "I deleted the app for a week — honestly, I needed to touch some grass.",
       "She saw my feed full of conspiracy videos and told me to touch grass."
     ]
+  },
+  {
+    "id": 158,
+    "date": "2026-11-01",
+    "phrase": "I'm swamped.",
+    "meaning": "我忙翻了、忙到焦頭爛額——事情多到像被淹沒一樣，暫時抽不出身",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "workplace",
+      "conversation",
+      "time-management",
+      "business"
+    ],
+    "analysis": "Swamp 當名詞是「沼澤」，當動詞卻是「淹沒、使應接不暇」——所以 I'm swamped 的字面畫面是「我整個人被事情淹沒了」，比 I'm busy 更有畫面感，也更能傳達「忙到超載、暫時挪不出時間」的狀態。這句話在美國校園和職場都極高頻：同事想臨時開會、朋友約吃飯，只要回一句 I'm swamped today，對方馬上懂你不是在敷衍，而是真的被事情追著跑。台灣學生最熟的 I'm busy 其實偏中性，有時甚至帶點「我不想理你」的冷淡；I'm swamped 則明確表示「忙是暫時的、被外務淹沒」，而且通常會補上被什麼淹沒：I'm swamped with finals / with work。教學時可以帶學生比較 busy、swamped、overwhelmed 三個字的強度差異，並提醒常見搭配 be swamped with + 名詞、get swamped，以及口語中常加 totally 來加重語氣。",
+    "examples": [
+      "Can we push the meeting to tomorrow? I'm totally swamped today.",
+      "Sorry for the late reply — I've been swamped with finals all week.",
+      "She's swamped at work right now, so I'm covering her shift tonight."
+    ]
   }
 ]
