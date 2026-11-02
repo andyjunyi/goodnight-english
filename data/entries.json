@@ -3125,5 +3125,25 @@
       "Sorry for the late reply — I've been swamped with finals all week.",
       "She's swamped at work right now, so I'm covering her shift tonight."
     ]
+  },
+  {
+    "id": 159,
+    "date": "2026-11-02",
+    "phrase": "Time to lock in.",
+    "meaning": "該專心了、準備進入戰鬥模式——把雜念關掉，全力專注在某件事上",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "study",
+      "focus",
+      "campus-life",
+      "daily-conversation"
+    ],
+    "analysis": "Lock 原本是「上鎖」，lock in 字面上像「把自己鎖進某種狀態」，所以 Time to lock in 就是「把外界鎖在外面，只剩我跟這件事」。這句在 2024 年後的美國校園爆紅：期中考前一晚、進圖書館前，學生會互丟一句，帶著自我喊話的儀式感。它和 study hard 的差別在「狀態切換」——不是叫你努力，而是宣布「我要進入專注模式」。台灣學生超適用：滑完手機、聊完天，準備念書時說一句 Alright, time to lock in，比 I need to study 更有決心。口語上也能縮成短短一句 Lock in.，越短越有氣勢，加時間點更自然，例如 Time to lock in for finals。另外它可接對象 lock in on my thesis；但 lock someone in 是「把人敲定」，意思完全不同，教學時要提醒。",
+    "examples": [
+      "Alright, no more scrolling — time to lock in.",
+      "Finals are next week, so I'm locking in at the library every night.",
+      "He locked in on his project and finished it in one weekend."
+    ]
   }
 ]
