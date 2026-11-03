@@ -3145,5 +3145,25 @@
       "Finals are next week, so I'm locking in at the library every night.",
       "He locked in on his project and finished it in one weekend."
     ]
+  },
+  {
+    "id": 160,
+    "date": "2026-11-03",
+    "phrase": "Pull an all-nighter.",
+    "meaning": "熬夜通宵——為了念書或趕工，硬撐一整晚不睡",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "study",
+      "campus-life",
+      "daily-conversation",
+      "sleep"
+    ],
+    "analysis": "Pull 在這裡不是「拉」，而是「硬撐、熬過」；all-nighter 指「通宵的一夜」，合起來就是「撐過整晚不睡」。這個說法在美國大學校園極普遍，期中期末週圖書館凌晨還燈火通明，學生會說 I pulled an all-nighter last night。它和 stay up all night 意思接近，但多了一層「為了完成某件事而硬撐」的味道，常接 before the exam。對台灣學生來說情境毫不陌生：趕報告、K 書都適用。教學上要提醒搭配動詞是 pull，不是 do；all-nighter 是名詞，別寫出 I all-nightered 這種中式英文。",
+    "examples": [
+      "I pulled an all-nighter to finish my report, and now I can barely keep my eyes open.",
+      "We pulled an all-nighter studying for the final, then went straight to get breakfast.",
+      "Don't pull an all-nighter before the exam — you'll be too tired to think."
+    ]
   }
 ]
