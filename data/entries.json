@@ -3165,5 +3165,25 @@
       "We pulled an all-nighter studying for the final, then went straight to get breakfast.",
       "Don't pull an all-nighter before the exam — you'll be too tired to think."
     ]
+  },
+  {
+    "id": 161,
+    "date": "2026-11-04",
+    "phrase": "That's a wrap.",
+    "meaning": "收工了、這件事結束了——工作或活動圓滿完成，可以收攤了",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "workplace",
+      "media",
+      "conversation",
+      "idiomatic"
+    ],
+    "analysis": "wrap 原本是「包裝、包起來」的意思，在影視圈引申為「拍攝完成」：導演喊一聲 That's a wrap!，全劇組就知道今天收工了。後來這句話走出片場，變成美國人日常的收尾用語——開完會、做完報告、拍完照、追完一部劇，都可以說一句 That's a wrap.，語氣輕鬆又有成就感。對台灣學生來說，最實用的情境是分組報告結束、活動收場，或朋友聚會準備散場時，用它取代比較生硬的 We are finished.。教學上可補充動詞 wrap up（收尾、總結），例如 Let's wrap up the meeting；也要提醒 a wrap 是可數名詞，不能說 That's wrap。這句話簡短有力，很適合當作課堂活動結束的口號，學生念一遍就記住了。",
+    "examples": [
+      "Alright, everyone — that's a wrap. Great job today.",
+      "We just finished the last episode. That's a wrap on season one!",
+      "One more photo, and then it's a wrap for today."
+    ]
   }
 ]
