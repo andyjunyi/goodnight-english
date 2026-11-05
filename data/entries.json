@@ -3185,5 +3185,25 @@
       "We just finished the last episode. That's a wrap on season one!",
       "One more photo, and then it's a wrap for today."
     ]
+  },
+  {
+    "id": 162,
+    "date": "2026-11-05",
+    "phrase": "That's wild.",
+    "meaning": "太扯了吧、太離譜了：聽到誇張或難以置信的事時，帶著驚嘆的即時反應",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "daily-conversation",
+      "reaction",
+      "internet",
+      "american-english"
+    ],
+    "analysis": "Wild 字面是「野生的、未馴服的」，但口語裡早就變成「太扯了、太離譜了」的驚嘆。它的語氣非常彈性：朋友說昨天在夜市遇到你前女友，一句 That's wild. 就到位；有人一天喝五杯珍奶、排兩小時買飲料，也都能用。它和 That's crazy 意思接近，差別在 crazy 有時聽起來像在批評對方，wild 則多半是「我在旁邊看熱鬧」的驚訝，中性又年輕。台灣學生最容易直譯成「很野」，其實完全不是那個意思。教學上可以讓學生分辨三種語氣：純驚訝（That's wild!）、半信半疑（That's wild, bro.）、帶點佩服（Okay, that's actually wild.）。也可以教它縮成一個字 Wild. 就能成句，越短越口語。提醒學生：對長輩或正式場合，還是用 That's surprising 比較得體。",
+    "examples": [
+      "Wait, you ran into your ex at the night market? That's wild.",
+      "He finished the whole pizza by himself? That's wild, bro.",
+      "The line for that new bubble tea place was like two hours long. That's wild."
+    ]
   }
 ]
