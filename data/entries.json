@@ -3205,5 +3205,25 @@
       "He finished the whole pizza by himself? That's wild, bro.",
       "The line for that new bubble tea place was like two hours long. That's wild."
     ]
+  },
+  {
+    "id": 163,
+    "date": "2026-11-06",
+    "phrase": "Blow off steam.",
+    "meaning": "發洩一下、把壓力排掉——用運動、玩樂或大吼一場，把累積的悶氣釋放出去",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "stress",
+      "daily-conversation",
+      "health",
+      "american-english"
+    ],
+    "analysis": "steam 是「蒸氣」，blow off 是「把……排放掉」，合起來就是讓鍋爐把過高的蒸氣洩出去，免得壓力爆表——這是十九世紀蒸氣機的畫面。用到人身上，就是指把累積的壓力、怒氣、煩躁找個出口排掉。美國人很常用它解釋自己為什麼要去跑步、唱歌、打電動：那不是偷懶，是在「保養」。台灣學生常把它跟 relax 混用，但 relax 只是放鬆，blow off steam 多了「先有壓力、需要釋放」的前提，畫面感也強得多。教學上可提醒搭配：blow off steam by doing something、need to blow off steam；英式英文常說 let off steam，兩種都聽得懂。很適合放在「壓力與健康」單元，讓學生造句分享自己的紓壓方式，順便練習 by + V-ing。",
+    "examples": [
+      "I've been studying all week, so I'm going for a run to blow off some steam.",
+      "After that meeting, he went to the gym to blow off steam.",
+      "If you're stressed, find a healthy way to blow off steam instead of scrolling all night."
+    ]
   }
 ]
