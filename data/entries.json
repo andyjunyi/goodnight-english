@@ -3245,5 +3245,25 @@
       "She started waking up at five every morning to run. She's in her discipline era.",
       "A: You've been drinking matcha every single day. B: Yep, I'm in my matcha era."
     ]
+  },
+  {
+    "id": 165,
+    "date": "2026-11-08",
+    "phrase": "Keep me posted.",
+    "meaning": "有消息隨時跟我說、持續回報進度——一句帶著關心的「記得更新我」",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "everyday-english",
+      "communication",
+      "workplace",
+      "american-english"
+    ],
+    "analysis": "post 當動詞是「張貼、公告」，keep me posted 字面意思是「持續把公告貼給我看」，源自早期把最新消息寫在布告欄上的做法，久而久之變成「有進展就通知我一聲」。它比 tell me 更有溫度，也比 update me 更口語：update me 偏中性、像主管交辦，keep me posted 則帶著「我在意這件事」的關心。教學時可對比 keep me in the loop，前者強調回報進度，後者強調別漏掉我。搭配是 keep me posted on／about + 名詞，也要提醒學生別說成 keep me posting。",
+    "examples": [
+      "Keep me posted on how the interview goes — I'm rooting for you.",
+      "I'm meeting the landlord this afternoon, so I'll keep you posted.",
+      "We don't have the test results yet, but the nurse said she'd keep us posted."
+    ]
   }
 ]
