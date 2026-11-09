@@ -3265,5 +3265,25 @@
       "I'm meeting the landlord this afternoon, so I'll keep you posted.",
       "We don't have the test results yet, but the nurse said she'd keep us posted."
     ]
+  },
+  {
+    "id": 166,
+    "date": "2026-11-09",
+    "phrase": "Drop the ball",
+    "meaning": "出包、搞砸了 — 該接住的事沒接好，把責任漏掉了",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "workplace",
+      "responsibility",
+      "daily-conversation",
+      "mistakes"
+    ],
+    "analysis": "「Drop the ball」字面上是「把球掉了」。想像一場籃球賽：隊友把球漂亮地傳到你手上，你卻手滑漏接，全場嘆氣，攻勢瞬間中斷。這個意象就是整個片語的核心——不是你不夠努力，而是在該接住的關鍵時刻，你讓事情從手中滑掉了。它原本是球場上的失誤，二十世紀後半走進美式職場，如今成了美國人形容「出包、漏掉該做的事」最常用的說法之一，語氣比 blame 輕，又比 make a mistake 更口語。台灣學生超容易代入：小組報告你負責訂場地卻忘了訂、打工記錯排班時間、答應幫同學印講義結果忘了帶——這些都是 drop the ball。教學上我會先讓學生「看見」那顆掉在地上的球，再練習句型：I dropped the ball on the booking.（訂場地這件事我搞砸了）。它後面常接 on 加事項；主動認錯時說 I dropped the ball，比 My bad 更有擔當，也很適合寫進職場 email 裡誠懇地負起責任。",
+    "examples": [
+      "I dropped the ball on the venue booking — I completely forgot to call them.",
+      "Sorry, I dropped the ball. I'll send the report tonight, I promise.",
+      "A: \"The client's email never got a reply.\" B: \"Yeah, that was on me — I dropped the ball.\""
+    ]
   }
 ]
