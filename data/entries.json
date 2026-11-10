@@ -3285,5 +3285,25 @@
       "Sorry, I dropped the ball. I'll send the report tonight, I promise.",
       "A: \"The client's email never got a reply.\" B: \"Yeah, that was on me — I dropped the ball.\""
     ]
+  },
+  {
+    "id": 167,
+    "date": "2026-11-10",
+    "phrase": "Don't bail on me.",
+    "meaning": "「別放我鳥喔」— 說好要一起做的事，別臨時放鴿子、別落跑",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "daily-conversation",
+      "friendship",
+      "plans",
+      "social"
+    ],
+    "analysis": "Bail 原本是法律上的「保釋」，也有把船裡進的水舀出去的意思：船一進水，你得趕快脫身，否則就沉了。十九世紀的美國人借用了這個「急忙抽腿」的畫面，說一個人 bail，就是臨時閃人、走人。演變到今天，bail on someone 專指「本來答應要出現，結果放鳥」。它跟 cancel 的差別很微妙：cancel 只是取消，語氣中性；bail 卻藏著「說好的人丟下我」的失落，所以多半帶點半開玩笑的埋怨。台灣學生對這個詞應該很有共鳴——約好六點捷運站集合，對方五點五十才傳訊息說「我媽不讓我出門」，你就是被 bailed on 了。教學時要提醒學生，後面一定要接 on：bail on a plan、bail on your friends，不能說 bail me。語氣上，Don't bail on me 通常是笑著撒嬌，真的火大時美國人會加重語氣說 You bailed on me last minute!",
+    "examples": [
+      "We already bought the tickets, so don't bail on me at the last minute.",
+      "Sorry I bailed on you yesterday — something came up at home.",
+      "He's always bailing on plans, so I stopped inviting him."
+    ]
   }
 ]
