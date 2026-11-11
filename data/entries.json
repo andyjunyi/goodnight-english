@@ -3305,5 +3305,24 @@
       "Sorry I bailed on you yesterday — something came up at home.",
       "He's always bailing on plans, so I stopped inviting him."
     ]
+  },
+  {
+    "id": 168,
+    "date": "2026-11-11",
+    "phrase": "I'm beat.",
+    "meaning": "「我累斃了」— 不是被打，是累到沒電、整個人被榨乾",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-conversation",
+      "spoken-english",
+      "tiredness",
+      "adjectives"
+    ],
+    "analysis": "beat 這個字我們最熟的是「打」：beat the drums、beat the other team。但在 I'm beat 裡，它是形容詞，意思是「累到極點、電力歸零」。畫面感很強——像被生活狠狠揍了一頓，整個人被榨乾。這句在美國日常對話裡出現頻率極高，比 I'm very tired 自然太多，下班、下課、搬完家、趕完報告時都派得上用場。教學時一定要先拆兩個常見誤會：第一，I'm beat 是「我很累」，不是「我被打了」，要說「他打我」得講 He hit me；而 He beat me 是「他在比賽裡贏了我」，意思完全不同。第二，這裡的 beat 是形容詞，不能說 I beat。語氣上，I'm beat 帶著一點認輸、撒嬌的可愛感，跟朋友說 I'm beat, let's call it a day 非常道地。它比 exhausted 輕鬆、比 dead tired 短，適合聊天，但別寫進正式信件。",
+    "examples": [
+      "I'm beat — I think I'm gonna call it a night.",
+      "After moving all that furniture, I'm beat.",
+      "You look beat. Did you get any sleep last night?"
+    ]
   }
 ]
