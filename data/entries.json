@@ -3324,5 +3324,24 @@
       "After moving all that furniture, I'm beat.",
       "You look beat. Did you get any sleep last night?"
     ]
+  },
+  {
+    "id": 169,
+    "date": "2026-11-12",
+    "phrase": "Let's play it by ear.",
+    "meaning": "「不用先講死，看當天情況再決定」— 保留彈性的口語說法",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "planning",
+      "spoken-english"
+    ],
+    "analysis": "play 是「演奏」，ear 是「耳朵」，字面是「用耳朵彈」。典故來自樂手不看譜，靠耳朵聽旋律、臨場跟著感覺走，所以 play it by ear 後來就變成「沒有預先排定的計畫，看到時候狀況再說」。這句在美國人口語裡超常見，尤其是朋友之間約週末：先講個大方向，細節等當天再決定。台灣學生最容易卡在「想講『再看看』卻只會說 Let's see」——其實 Let's see 太短、有點像在敷衍，play it by ear 多了「我們有共識、只是保持彈性」的溫度，語氣更合作。教學時提醒兩點：一是它後面不加受詞，不能說 play it by my ear；二是它適合半正式到日常場合，開會改期說 We'll play it by ear 也很自然，但別用在需要明確承諾的商務書信裡。另外提醒學生別聽成 play it by year，ear 和 year 差一個音，意思卻從「看情況」變成「按年玩」，會鬧笑話。",
+    "examples": [
+      "We don't have a set plan for Saturday — let's just play it by ear.",
+      "A: What time should we meet? B: Let's play it by ear and text each other in the morning.",
+      "The weather's looking sketchy, so we'll play it by ear with the picnic."
+    ]
   }
 ]
