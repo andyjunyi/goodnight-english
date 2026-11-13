@@ -3343,5 +3343,25 @@
       "A: What time should we meet? B: Let's play it by ear and text each other in the morning.",
       "The weather's looking sketchy, so we'll play it by ear with the picnic."
     ]
+  },
+  {
+    "id": 170,
+    "date": "2026-11-13",
+    "phrase": "Make it make sense.",
+    "meaning": "「這到底什麼邏輯？」— 遇到想不通的事時，半開玩笑地要對方給個解釋",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "social-media",
+      "reaction",
+      "daily-conversation"
+    ],
+    "analysis": "make 是「使…變成」，it 指的是眼前這件讓你傻眼的事，make sense 是「說得通、有道理」，整句直譯是「讓它說得通吧」，實際卻是一句半開玩笑的抗議。當你遇到完全不合邏輯的規定、莫名其妙的劇情，或朋友做出匪夷所思的選擇，就可以丟出這句，意思是「誰來解釋一下這是什麼邏輯？」近幾年在美國年輕人的社群媒體大量出現，常出現在吐槽新聞、抱怨公司制度、抓劇情漏洞的留言裡，語氣無奈又帶點撒嬌，不是真的生氣。台灣學生想講「這不合理」往往只會說 This is not reasonable，聽起來像在寫報告；改說 Make it make sense，立刻像母語者。教學時可設計情境：看到「下雨天禁止撐傘」的規定，學生回一句 Make it make sense，全班一定笑。要注意它口語感很強，適合朋友聊天與社群發文，正式 email 仍用 I don't understand the reasoning 比較得體。",
+    "examples": [
+      "You have to fill out a form just to get the form — make it make sense.",
+      "The villain got a full redemption arc in one episode. Make it make sense.",
+      "A: The sale ends before the store even opens. B: Make it make sense."
+    ]
   }
 ]
