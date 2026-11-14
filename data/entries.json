@@ -3363,5 +3363,25 @@
       "The villain got a full redemption arc in one episode. Make it make sense.",
       "A: The sale ends before the store even opens. B: Make it make sense."
     ]
+  },
+  {
+    "id": 171,
+    "date": "2026-11-14",
+    "phrase": "Does that work for you?",
+    "meaning": "「這樣對你方便嗎？」— 約時間、提方案時最實用的確認句，比 Is that OK? 更客氣",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-conversation",
+      "scheduling",
+      "politeness",
+      "spoken-english",
+      "work"
+    ],
+    "analysis": "work 在這裡不是「工作」，而是動詞「行得通、方便」，所以整句直譯是「那個對你行得通嗎？」，意思就是「這樣安排你方便嗎？」美國人約事情有個明顯習慣：提出方案後，把最後決定權丟回給對方，所以這句話天天出現在簡訊、電話和辦公室對話裡。它的好用之處是一箭雙鵰——時間、地點、方式都能問，範圍比 Are you free? 大得多，而且語氣像在商量，不是下指令。台灣學生常說 Is it okay for you?，文法沒錯但偏課本味；換成這句立刻有道地感。教學時可設計約看電影、改諮詢時間、改會議三個情境，讓學生練三種回應：That works for me.、I can make that work.、Sorry, that doesn't really work — can we do 7 instead? 記得介系詞固定用 for，不能說 work to you。",
+    "examples": [
+      "How about Saturday at two? Does that work for you?",
+      "I can move our meeting to Thursday morning — does that work for you?",
+      "Sorry, Friday is packed for me. Does Monday afternoon work for you?"
+    ]
   }
 ]
