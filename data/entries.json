@@ -3383,5 +3383,25 @@
       "I can move our meeting to Thursday morning — does that work for you?",
       "Sorry, Friday is packed for me. Does Monday afternoon work for you?"
     ]
+  },
+  {
+    "id": 172,
+    "date": "2026-11-15",
+    "phrase": "I've got a lot on my plate right now.",
+    "meaning": "「我現在手邊事情很多」— 用「盤子裝滿了」比喻工作爆量，比 I'm busy 更婉轉、更有溫度",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "workload",
+      "politeness",
+      "spoken-english"
+    ],
+    "analysis": "plate 是盤子，字面是「我盤子裡裝了很多東西」，實際指手邊待處理的事太多。這個比喻來自自助餐：盤子就那麼大，夾滿了就再也放不下，美國人於是把工作量講成盤子裡的食物。它比 I'm busy 高明在語氣——I'm busy 聽起來像在擋人，這句則帶著「不是不想幫你，是真的塞滿了」的誠意，推掉邀約、跟老師爭取延期時都好用。台灣學生常直譯成 I'm very busy，文法沒錯但太生硬；換成這句再加一句 Can I get back to you next week? 就得體多了。教學時可讓學生畫出自己的盤子，把考試、社團、打工放上去用英文講，順便練 take something off my plate（幫我分擔）這個超實用搭配。",
+    "examples": [
+      "Sorry I haven't replied — I've got a lot on my plate right now.",
+      "Can I take a rain check? I've got a lot on my plate this week.",
+      "She's got a lot on her plate with finals and her part-time job."
+    ]
   }
 ]
