@@ -3403,5 +3403,25 @@
       "Can I take a rain check? I've got a lot on my plate this week.",
       "She's got a lot on her plate with finals and her part-time job."
     ]
+  },
+  {
+    "id": 173,
+    "date": "2026-11-16",
+    "phrase": "That was out of pocket.",
+    "meaning": "「這也太超過、太白目了吧」— 形容一句話或行為沒分寸、不合時宜，語氣比 rude 輕，常帶看熱鬧的笑意",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "social-media",
+      "daily-conversation",
+      "reaction"
+    ],
+    "analysis": "pocket 是口袋，out of pocket 字面是「從口袋裡跑出來」，美式口語指一句話或一個行為「太超過、沒分寸、白目到讓人傻眼」。它跟「自掏腰包」的 out of pocket 同形不同義，這點最容易讓學生搞混——講錢是付費，講人就是失言。這個用法在 X 和 TikTok 上紅起來，起源說法不一，普遍的解釋是「超出應有的分寸」。文化上它比 That was rude 輕得多：朋友之間說 out of pocket，語氣比較像「哇你也太敢講」，帶著看熱鬧的笑意，不是嚴厲指責。可以想像同學在班群對別人的新髮型開玩笑，或親戚在飯桌上問太私人的問題，你心裡冒出「這也太白目」。教學時建議先讓學生分辨輕重，再提醒別對長輩或正式場合用；也可以教自嘲版 Was that out of pocket?，承認自己剛剛有點超過，超實用。",
+    "examples": [
+      "Did you see what he said about her new haircut? That was out of pocket.",
+      "I meant it as a joke, but looking back, it was kind of out of pocket.",
+      "My uncle's question at dinner was so out of pocket that everyone just went quiet."
+    ]
   }
 ]
