@@ -3423,5 +3423,25 @@
       "I meant it as a joke, but looking back, it was kind of out of pocket.",
       "My uncle's question at dinner was so out of pocket that everyone just went quiet."
     ]
+  },
+  {
+    "id": 174,
+    "date": "2026-11-17",
+    "phrase": "Something came up.",
+    "meaning": "「臨時有事、突然有狀況」— 委婉說明自己必須取消或改期，比直接說 I'm busy 更自然，也更留餘地",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-conversation",
+      "speaking",
+      "social",
+      "plans",
+      "politeness"
+    ],
+    "analysis": "come up 字面是「冒出來」，所以 something came up 就是「突然冒出一件事」，中文最貼近的說法是「臨時有事」。關鍵在那個過去式 came：事情已經發生了，用來解釋為什麼現在不能赴約——這正是台灣學生最常講錯的地方，想講「我等一下有事」卻說 Something comes up，聽起來像在報告某種規律。它的好用之處在於體面：不必交代細節，對方通常也不會追問，比 I'm busy 多一分歉意、少一分冷淡。生活情境到處都是：出門前老闆臨時交辦、家人突然要你跑一趟、身體忽然不舒服，訊息開頭一句 Sorry, something came up. 就能把話說得漂亮。教學上我會提醒兩件事：一是它通常和 sorry 或 I hate to do this 一起出現，單獨丟出去會有點生硬；二是要練習接後半句，例如 ...so I'll have to take a rain check，把取消或改期的動作講清楚，才算完整的口語回應。",
+    "examples": [
+      "Hey, I'm really sorry — something came up at work, so I'll have to take a rain check tonight.",
+      "I was about to leave when something came up with my family.",
+      "Sorry I'm late, guys. Something came up on the way here."
+    ]
   }
 ]
