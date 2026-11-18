@@ -3443,5 +3443,25 @@
       "I was about to leave when something came up with my family.",
       "Sorry I'm late, guys. Something came up on the way here."
     ]
+  },
+  {
+    "id": 175,
+    "date": "2026-11-18",
+    "phrase": "I got left on read.",
+    "meaning": "「我被已讀不回」— 訊息被點開卻沒有回覆，語氣帶點委屈又無奈，是現代通訊軟體世代的日常抱怨",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "texting",
+      "social-media",
+      "dating",
+      "daily-conversation"
+    ],
+    "analysis": "這裡的 read 不是「閱讀」的動詞，而是形容詞「已讀」，發音 /rɛd/，跟紅色的 red 同音，念成 /riːd/ 就露餡了。left someone on read 字面是「把人留在已讀狀態」，訊息被點開卻沒回。這個說法跟著手機的已讀標記（read receipts）流行起來，iMessage、IG 都有，美國年輕人講它的頻率大概跟我們說「已讀不回」一樣高。台灣學生對這情境再熟不過，差別在英文帶情緒：被 left on read 有種被晾著的委屈，所以常出現在抱怨曖昧對象的對話裡。教學時建議跟 ghost 對比——ghost 是完全消失、連讀都沒讀，left on read 是讀了卻裝死，情節輕一點但更讓人牙癢。也可以順便教 double text（沒回又傳第二則），兩個詞一起記，學生馬上能講出自己的通訊軟體人生。",
+    "examples": [
+      "I texted him three hours ago and I still got left on read.",
+      "Don't take it personally — she leaves everyone on read when she's swamped.",
+      "He left me on read for two days and then acted like nothing happened."
+    ]
   }
 ]
