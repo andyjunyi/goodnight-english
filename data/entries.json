@@ -3463,5 +3463,24 @@
       "Don't take it personally — she leaves everyone on read when she's swamped.",
       "He left me on read for two days and then acted like nothing happened."
     ]
+  },
+  {
+    "id": 176,
+    "date": "2026-11-19",
+    "phrase": "I'll let it slide this time.",
+    "meaning": "「這次就算了／這次放你一馬」— 別人犯了小錯或失約，你決定不追究、不計較，但語氣暗示下次可不一定",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "relationships",
+      "workplace"
+    ],
+    "analysis": "let it slide 字面是「讓它滑過去」——東西滑掉你不去追，引申成「算了、不追究」。它比 forgive 輕得多，語氣帶點無奈甚至寵溺，所以後面幾乎一定接 this time。生活裡超常用：朋友遲到、室友沒洗碗，一句 I'll let it slide 就帶過。台灣學生最熟的對應就是「這次就算了啦」。但要提醒語氣：它適合平輩之間或老師對學生，反過來對老師說就怪。也可以跟 let it go 對比——let it go 是自己放下不糾結，let it slide 是對方犯錯，我選擇不追究。",
+    "examples": [
+      "You forgot your homework again? I'll let it slide this time, but don't make a habit of it.",
+      "He showed up twenty minutes late, but since it was pouring rain, I decided to let it slide.",
+      "You still owe me fifty bucks, but I'll let it slide until you get paid."
+    ]
   }
 ]
