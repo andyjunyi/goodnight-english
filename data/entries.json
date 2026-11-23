@@ -3541,5 +3541,25 @@
       "She's been dealing with a lot lately, so cut her some slack.",
       "I know I'm late, but cut me some slack. The traffic was insane."
     ]
+  },
+  {
+    "id": 180,
+    "date": "2026-11-23",
+    "phrase": "Let's grab a bite.",
+    "meaning": "「我們去隨便吃點東西吧」— 不是正式邀約一頓大餐，而是輕鬆地約人一起吃點東西、填個肚子",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-conversation",
+      "food",
+      "invitation",
+      "spoken-english",
+      "casual"
+    ],
+    "analysis": "grab 是「順手抓一下」，a bite 是「一口」，字面就是「抓一口來吃」，畫面很輕鬆：不是坐下來吃套餐，而是路邊找點東西墊墊胃。美國人約吃飯很少說 Let's eat something，grab a bite 才是真正掛在嘴邊的日常說法，語氣隨興、不帶壓力。台灣學生常卡在「吃東西」只會用 eat，其實 grab 超好用：grab coffee、grab lunch 都通，意思接近「順便去買一下」。生活情境：下課鐘響，同學拍拍你說 Do you wanna grab a bite? 教學上我會提醒，這句邀約力道很輕，被拒絕也不尷尬；若真要訂餐廳的正式飯局，用 Let's have dinner 更精準。",
+    "examples": [
+      "I'm starving — let's grab a bite before the movie.",
+      "Hey, do you wanna grab a bite after class?",
+      "We grabbed a bite at that new ramen place last night."
+    ]
   }
 ]
