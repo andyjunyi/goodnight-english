@@ -3561,5 +3561,25 @@
       "Hey, do you wanna grab a bite after class?",
       "We grabbed a bite at that new ramen place last night."
     ]
+  },
+  {
+    "id": 181,
+    "date": "2026-11-24",
+    "phrase": "You're the GOAT.",
+    "meaning": "「你是最強的！」— GOAT 是 Greatest Of All Time 的縮寫，用來大力稱讚某人（或某樣東西）是史上最頂",
+    "category": "slang",
+    "tags": [
+      "slang",
+      "internet",
+      "compliment",
+      "acronym",
+      "spoken-english"
+    ],
+    "analysis": "GOAT 字面是「山羊」，全大寫其實是 Greatest Of All Time 的縮寫，意思是「史上最強」。這個說法原本是運動圈在捧傳奇球星，從拳王阿里到梅西都有人這樣喊，後來被網路世代全面接收，現在誇朋友、誇小店、誇一盤炒飯都行。第一個坑是發音：台灣學生常照字面唸成「山羊」，那會鬧笑話，口語上就是唸字母 G-O-A-T。生活情境：同學幫你把快交不出來的報告救回來，一句 You're the GOAT. 比 thank you 更有溫度。教學上提醒兩點：它只能誇別人或誇東西，I'm the GOAT 聽起來很自大；而且屬口語玩笑語氣，寫正式作文就別用。",
+    "examples": [
+      "You fixed my laptop in ten minutes? You're the GOAT.",
+      "Messi is the GOAT — I don't think anyone can argue with that.",
+      "That little ramen shop is the GOAT. I eat there every week."
+    ]
   }
 ]
