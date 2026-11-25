@@ -3581,5 +3581,25 @@
       "Messi is the GOAT — I don't think anyone can argue with that.",
       "That little ramen shop is the GOAT. I eat there every week."
     ]
+  },
+  {
+    "id": 182,
+    "date": "2026-11-25",
+    "phrase": "Let me play devil's advocate.",
+    "meaning": "「讓我故意扮一下反方。」— 先表明自己不是真的要反對，而是幫大家把盲點找出來",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "discussion",
+      "debate",
+      "workplace",
+      "spoken-english"
+    ],
+    "analysis": "devil's advocate 字面是「魔鬼的辯護人」，來自天主教封聖審查：當時會指定一人專門提反方質疑，這個角色後來就叫 devil's advocate。它的重點不是吵架，而是「我故意站到對面幫你找漏洞」，通常代表我站在你這邊。台灣學生常誤會成對方立場相反，前面補一句 I agree with you, but… 就清楚了。生活情境：分組討論時同學 play devil's advocate 拋反例，不是針對你，是在幫報告補洞。教學上很適合辯論或口說課，讓學生輪流當反方，練習先肯定再質疑。",
+    "examples": [
+      "I agree with your plan, but let me play devil's advocate for a second — what if nobody shows up?",
+      "She played devil's advocate in the meeting so we wouldn't miss any risks.",
+      "Don't take it personally. I'm just playing devil's advocate."
+    ]
   }
 ]
