@@ -3601,5 +3601,25 @@
       "She played devil's advocate in the meeting so we wouldn't miss any risks.",
       "Don't take it personally. I'm just playing devil's advocate."
     ]
+  },
+  {
+    "id": 183,
+    "date": "2026-11-26",
+    "phrase": "Let me get back to you.",
+    "meaning": "「我之後再回覆你。」— 需要查證或還沒決定時的體面說法，不是已讀不回",
+    "category": "daily-phrase",
+    "tags": [
+      "daily-phrase",
+      "workplace",
+      "email",
+      "politeness",
+      "spoken-english"
+    ],
+    "analysis": "get back to 字面是「回到某人那裡」，實際意思是「我之後再回覆你」。它不等於已讀不回，而是先掛一張「處理中」的牌子，是需要查資料、問主管或還沒決定時最體面的說法。台灣學生常直譯成 I'll reply you later，這是中式英文：reply 要加 to，而且偏書面；口語和 email 其實更常用 get back to you。生活情境：同事問這版文案今天能不能給，你還沒問過主管，就說 Let me check with my manager and get back to you.。教學上可帶三層語氣：I'll get back to you. 中性、Let me get back to you on that. 更委婉、I'll circle back to you. 商務感。也記得補上時間，I'll get back to you by Friday. 才不會被當成放鳥。",
+    "examples": [
+      "I'm not sure about the schedule yet. Let me get back to you on that.",
+      "Sorry, I don't have the numbers in front of me — I'll get back to you by Friday.",
+      "Thanks for reaching out. Let me check with my team and get back to you."
+    ]
   }
 ]
