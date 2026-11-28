@@ -3641,5 +3641,25 @@
       "I'm not simping, I just think she's genuinely talented, okay?",
       "The comments are full of guys simping over her new post."
     ]
+  },
+  {
+    "id": 185,
+    "date": "2026-11-28",
+    "phrase": "You dodged a bullet.",
+    "meaning": "「你算逃過一劫。」— 慶幸自己剛好躲開了爛人、爛事或災難",
+    "category": "idiom",
+    "tags": [
+      "idiom",
+      "daily-conversation",
+      "luck",
+      "relationships",
+      "informal"
+    ],
+    "analysis": "dodge 是「閃避」，bullet 是「子彈」，字面是「躲過一槍」，像電影裡子彈擦身而過。現在比喻「差一點踩到雷卻幸運躲開」，可以是爛工作、爛對象、爛投資，中文最貼切是「好險，逃過一劫」。台灣學生常直譯得太正式，其實日常一句 You dodged a bullet 就很有畫面。時機是事後回頭看：已經避開才說。朋友差點跟錯的人交往，你可以拍拍他說 Dodged a bullet there.。教學上建議搭配 when 子句講清楚躲過什麼：You dodged a bullet when you didn't take that job.",
+    "examples": [
+      "You dodged a bullet when that job fell through — they laid off half the team two months later.",
+      "She canceled on you at the last minute? Honestly, sounds like you dodged a bullet.",
+      "I almost bought that used car. Good thing you talked me out of it — I really dodged a bullet."
+    ]
   }
 ]
